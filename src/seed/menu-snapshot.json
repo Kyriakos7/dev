@@ -1,0 +1,4252 @@
+{
+  "source": "https://app.menurio.com/kookoovaya-xanthi",
+  "exportedAt": "2026-09-13T18:01:24.771Z",
+  "venue": {
+    "name": "Kookoovaya xanthi",
+    "slug": "kookoovaya-xanthi",
+    "address": "Μαλετσίδου 2 67100 Xánthi, Greece",
+    "city": "Xanthi",
+    "phone": "2541021223",
+    "currency": "€",
+    "hours": "Monday – Sunday 10:00 – 03:00",
+    "description_el": "Urban Gastronomy στην είσοδο της Παλιάς Πόλης της Ξάνθης. All-day προορισμός για brunch, pizza contemporanea, burgers, pasta & cocktails.",
+    "description_en": "Urban Gastronomy at the entrance of the Old Town of Xanthi. All-day venue for brunch, contemporary pizza, burgers, pasta & cocktails."
+  },
+  "sections": [
+    {
+      "menurioId": 438,
+      "order": 1,
+      "name_el": "COFFEE & BEVERAGES",
+      "name_en": "COFFEE & BEVERAGES",
+      "desc_el": "Coffee / Milkshakes / Juice / Soft Drinks / Tea",
+      "desc_en": "COFFEE / TEA/ MILKSHAKE / JUICE / SOFT DRINKS",
+      "image": "https://app.menurio.com/storage/6119/menurio-kookoovaya-xanthi-2022-06-25-13-26-47.jpeg",
+      "categories": [
+        {
+          "menurioId": 9378,
+          "order": 1,
+          "name_el": "BEVERAGES",
+          "name_en": "BEVERAGES",
+          "desc_el": "",
+          "desc_en": "",
+          "image": null,
+          "items": [
+            {
+              "menurioId": 9379,
+              "order": 1,
+              "name_el": "ΣΟΚΟΛΑΤΑ ΓΑΛΑΚΤΟΣ / ΛΕΥΚΗ (ΖΕΣΤΗ-ΚΡΥΑ)",
+              "name_en": "MILK CHOCOLATE / WHITE CHOCOLATE (HOT-COLD)",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "3,50",
+              "image": null
+            },
+            {
+              "menurioId": 31822,
+              "order": 2,
+              "name_el": "MILKSHAKE MARCHOC",
+              "name_en": "MILKSHAKE MARCHOC",
+              "desc_el": "( ΦΡΑΟΥΛΑ, ΠΡΑΛΙΝΑ ΣΟΚΟΛΑΤΑ, ΒΑΝΙΛΙΑ)",
+              "desc_en": "( STRAWBERRY, CHOCOLATE, VANILLA)",
+              "price": "4,50",
+              "image": null
+            },
+            {
+              "menurioId": 9382,
+              "order": 3,
+              "name_el": "ΣΟΚΟΛΑΤΑ MARCHOC (ΖΕΣΤΗ-ΚΡΥΑ)",
+              "name_en": "MARCHOC CHOCOLATE (HOT-COLD)",
+              "desc_el": "( ΦΡΑΟΥΛΑ, BUENO, GIANDUJA, ΚΑΡΑΜΕΛΑ ΜΕ ΘΑΛΑΣΣΙΝΟ ΑΛΑΤΙ, ΠΟΡΤΟΚΑΛΙ-ΚΑΝΕΛΛΑ, 0% ΖΑΧΑΡΗ, ΛΕΥΚΗ ΣΟΚΟΛΑΤΑ ΜΕ ΒΑΤΟΜΟΥΡΟ & ΡΟΔΙ)",
+              "desc_en": "(STRAWBERRY, BUENO, GIANDUJA, CARAMEL WITH SEA SALT, ORANGE-CINNAMON, 0% SUGAR, WHITE CHOCOLATE WITH STRAWBERRY & POMEGRANATE)",
+              "price": "4,00",
+              "image": "https://app.menurio.com/storage/3118/menurio-kookoovaya-xanthi-2021-11-12-02-41-30.jpg"
+            },
+            {
+              "menurioId": 9380,
+              "order": 4,
+              "name_el": "ΣΟΚΟΛΑΤΑ ΒΙΕΝΟΥΑ",
+              "name_en": "VIENNESE CHOCOLATE (HOT-COLD)",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "4,00",
+              "image": null
+            },
+            {
+              "menurioId": 9381,
+              "order": 5,
+              "name_el": "ΚΑΚΑΟ",
+              "name_en": "HOT COCOA",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "3,00",
+              "image": "https://app.menurio.com/storage/3120/menurio-kookoovaya-xanthi-2021-11-12-02-46-07.jpg"
+            },
+            {
+              "menurioId": 9384,
+              "order": 6,
+              "name_el": "ΦΥΣΙΚΟΣ ΧΥΜΟΣ ΠΟΡΤΟΚΑΛΙ",
+              "name_en": "NATURAL ORANGE JUICE",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "4,00",
+              "image": "https://app.menurio.com/storage/3121/menurio-kookoovaya-xanthi-2021-11-12-02-47-20.jpg"
+            },
+            {
+              "menurioId": 9385,
+              "order": 7,
+              "name_el": "ΦΥΣΙΚΟΣ ΧΥΜΟΣ ΡΟΔΙ",
+              "name_en": "NATURAL POMEGRANATE JUICE",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "4,50",
+              "image": "https://app.menurio.com/storage/3122/menurio-kookoovaya-xanthi-2021-11-12-02-48-50.jpg"
+            },
+            {
+              "menurioId": 9386,
+              "order": 8,
+              "name_el": "ΦΥΣΙΚΟΣ ΧΥΜΟΣ ΑΝΑΜΕΙΚΤΟΣ",
+              "name_en": "MIXED FRUITS NATURAL JUICE",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "4,50",
+              "image": "https://app.menurio.com/storage/3123/menurio-kookoovaya-xanthi-2021-11-12-02-50-23.jpg"
+            },
+            {
+              "menurioId": 9387,
+              "order": 9,
+              "name_el": "ΑΜΙΤΑ ANAMΕΙΚΤΟΣ",
+              "name_en": "AMITA MIXED JUICE",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "3,50",
+              "image": "https://app.menurio.com/storage/3124/menurio-kookoovaya-xanthi-2021-11-12-02-51-49.jpg"
+            },
+            {
+              "menurioId": 9388,
+              "order": 10,
+              "name_el": "ΣΠΙΤΙΚΗ ΦΡΕΣΚΙΑ ΛΕΜΟΝΑΔΑ",
+              "name_en": "FRESH HOMEMADE LEMONADE",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "3,50",
+              "image": "https://app.menurio.com/storage/3125/menurio-kookoovaya-xanthi-2021-11-12-02-54-19.jpg"
+            },
+            {
+              "menurioId": 9389,
+              "order": 11,
+              "name_el": "ΒΙΟΛΟΓΙΚΗ ΒΥΣΣΙΝΑΔΑ",
+              "name_en": "ORGANIC SOUR CHERRY JUICE",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "4,00",
+              "image": "https://app.menurio.com/storage/3126/menurio-kookoovaya-xanthi-2021-11-12-02-55-32.jpg"
+            },
+            {
+              "menurioId": 9390,
+              "order": 12,
+              "name_el": "ARIZONA ICE TEA",
+              "name_en": "ARIZONA ICE TEA",
+              "desc_el": "(ΡΟΔΑΚΙΝΟ, ΛΕΜΟΝΙ, ΡΟΔΙ, GREEN TEA)",
+              "desc_en": "(PEACH, LEMON, POMEGRANATE, GREEN TEA)",
+              "price": "4,00",
+              "image": "https://app.menurio.com/storage/3127/menurio-kookoovaya-xanthi-2021-11-12-02-57-30.jpg"
+            },
+            {
+              "menurioId": 9391,
+              "order": 13,
+              "name_el": "3 CENTS",
+              "name_en": "3 CENTS",
+              "desc_el": "(PINK GRAPEFRUIT SODA, GENTLEMAN SODA, CHERRY SODA, PINEAPPLE SODA, AEGEAN TONIC)",
+              "desc_en": "(PINK GRAPEFRUIT SODA, GENTLEMAN SODA, CHERRY SODA, GINGER BEER, PINEAPPLE SODA)",
+              "price": "4,50",
+              "image": "https://app.menurio.com/storage/3128/menurio-kookoovaya-xanthi-2021-11-12-02-58-42.jpg"
+            },
+            {
+              "menurioId": 9392,
+              "order": 14,
+              "name_el": "RED BULL",
+              "name_en": "RED BULL",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "5,00",
+              "image": "https://app.menurio.com/storage/3129/menurio-kookoovaya-xanthi-2021-11-12-02-59-26.jpg"
+            },
+            {
+              "menurioId": 9393,
+              "order": 15,
+              "name_el": "COCA COLA  (CLASSIC – ZERO)",
+              "name_en": "COCA COLA  (LIGHT – ZERO)",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "3,50",
+              "image": "https://app.menurio.com/storage/3130/menurio-kookoovaya-xanthi-2021-11-12-03-00-08.jpg"
+            },
+            {
+              "menurioId": 9394,
+              "order": 16,
+              "name_el": "FANTA ΠΟΡΤΟΚΑΛΙ - ΛΕΜΟΝΙ",
+              "name_en": "FANTA ORANGE - LEMON",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "3,50",
+              "image": "https://app.menurio.com/storage/3131/menurio-kookoovaya-xanthi-2021-11-12-03-01-26.jpg"
+            },
+            {
+              "menurioId": 9395,
+              "order": 17,
+              "name_el": "SPRITE",
+              "name_en": "SPRITE",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "3,50",
+              "image": "https://app.menurio.com/storage/3132/menurio-kookoovaya-xanthi-2021-11-12-03-02-10.jpg"
+            },
+            {
+              "menurioId": 9396,
+              "order": 18,
+              "name_el": "SCHWEPPES ΣΟΔΑ",
+              "name_en": "SCHWEPPES SODA",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "3,50",
+              "image": "https://app.menurio.com/storage/3133/menurio-kookoovaya-xanthi-2021-11-12-03-03-25.jpg"
+            },
+            {
+              "menurioId": 9397,
+              "order": 20,
+              "name_el": "ΑΝΘΡΑΚΟΥΧΟ ΝΕΡΟ ΘΕΩΝΗ 330ML",
+              "name_en": "SPARKLING WATER 330ML",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "4,00",
+              "image": null
+            },
+            {
+              "menurioId": 9399,
+              "order": 21,
+              "name_el": "ΘΕΩΝΗ ΦΥΣΙΚΟ ΜΕΤΑΛΛΙΚΟ ΝΕΡΟ 1lt",
+              "name_en": "NATURAL MINERAL WATER 1lt",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "1,50",
+              "image": null
+            }
+          ]
+        },
+        {
+          "menurioId": 235163,
+          "order": 2,
+          "name_el": "Bfresh",
+          "name_en": "Bfresh",
+          "desc_el": "",
+          "desc_en": "",
+          "image": "https://app.menurio.com/storage/43556/menurio-kookoovaya-xanthi-2025-09-02-17-38-26.jpeg",
+          "items": [
+            {
+              "menurioId": 235164,
+              "order": 0,
+              "name_el": "Λεμονάδα με Τζίντζερ & Αγαύη",
+              "name_en": "Λεμονάδα με Τζίντζερ & Αγαύη",
+              "desc_el": "Bio",
+              "desc_en": "Bio",
+              "price": "5,00",
+              "image": "https://app.menurio.com/storage/43557/menurio-kookoovaya-xanthi-2025-09-02-17-42-23.jpeg"
+            },
+            {
+              "menurioId": 235165,
+              "order": 0,
+              "name_el": "Pink Grapefruit",
+              "name_en": "Pink Grapefruit",
+              "desc_el": "Bio",
+              "desc_en": "Bio",
+              "price": "5,00",
+              "image": "https://app.menurio.com/storage/43558/menurio-kookoovaya-xanthi-2025-09-02-17-42-55.jpeg"
+            },
+            {
+              "menurioId": 235166,
+              "order": 0,
+              "name_el": "Λεμονάδα με αγγούρι & αγαύη",
+              "name_en": "Λεμονάδα με αγγούρι & αγαύη",
+              "desc_el": "Bio",
+              "desc_en": "Bio",
+              "price": "5,00",
+              "image": "https://app.menurio.com/storage/43559/menurio-kookoovaya-xanthi-2025-09-02-17-43-59.jpeg"
+            },
+            {
+              "menurioId": 235167,
+              "order": 0,
+              "name_el": "Λεμονάδα με Μάνγκο & Αγαύη",
+              "name_en": "Λεμονάδα με Μάνγκο & Αγαύη",
+              "desc_el": "Bio",
+              "desc_en": "Bio",
+              "price": "5,00",
+              "image": "https://app.menurio.com/storage/43560/menurio-kookoovaya-xanthi-2025-09-02-17-46-20.jpeg"
+            }
+          ]
+        },
+        {
+          "menurioId": 9362,
+          "order": 3,
+          "name_el": "COFFEE",
+          "name_en": "COFFEE",
+          "desc_el": "ΌΛΑ ΤΑ ΕΙΔΗ ΚΑΦΕ ΔΙΑΤΙΘΕΝΤΑΙ ΣΕ DECAFFEINE",
+          "desc_en": "ALL COFFEE PRODUCTS ARE AVAILABLE IN DECAFFEINE",
+          "image": "https://app.menurio.com/storage/43165/menurio-kookoovaya-xanthi-2025-08-08-13-48-13.jpeg",
+          "items": [
+            {
+              "menurioId": 9376,
+              "order": 1,
+              "name_el": "Εξτρα γεύση +0,50 ( Βανίλια, φουντούκι, καραμέλα )",
+              "name_en": "EXTRA FLAVOR +0,50 (VANILLA, HAZELNUT, STRAWBERRY, CARAMEL)",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "",
+              "image": null
+            },
+            {
+              "menurioId": 9377,
+              "order": 2,
+              "name_el": "Έξτρα δόση Espresso +1,00",
+              "name_en": "EXTRA DOSE OF ESPRESSO +1,00",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "",
+              "image": null
+            },
+            {
+              "menurioId": 9363,
+              "order": 3,
+              "name_el": "ESPRESSO",
+              "name_en": "ESPRESSO",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "2,50",
+              "image": null
+            },
+            {
+              "menurioId": 9365,
+              "order": 5,
+              "name_el": "CAPPUCCINO",
+              "name_en": "CAPPUCCINO",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "",
+              "image": null
+            },
+            {
+              "menurioId": 9367,
+              "order": 7,
+              "name_el": "FREDDO ESPRESSO",
+              "name_en": "FREDDO ESPRESSO",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "3,50",
+              "image": null
+            },
+            {
+              "menurioId": 9368,
+              "order": 8,
+              "name_el": "FREDDO CAPPUCCINO",
+              "name_en": "FREDDO CAPPUCCINO",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "4,00",
+              "image": null
+            },
+            {
+              "menurioId": 9369,
+              "order": 9,
+              "name_el": "LATTE (ΖΕΣΤΟ-ΚΡΥΟ)",
+              "name_en": "LATTE (HOT-COLD)",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "4,00",
+              "image": null
+            },
+            {
+              "menurioId": 9370,
+              "order": 10,
+              "name_el": "MOCHACCINO (ΖΕΣΤΟ-ΚΡΥΟ)",
+              "name_en": "MOCCACCINO (HOT-COLD)",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "4,00",
+              "image": null
+            },
+            {
+              "menurioId": 9371,
+              "order": 11,
+              "name_el": "ΕΛΛΗΝΙΚΟΣ",
+              "name_en": "GREEK COFFEE",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "",
+              "image": "https://app.menurio.com/storage/3112/menurio-kookoovaya-xanthi-2021-11-12-02-27-36.jpg"
+            },
+            {
+              "menurioId": 9373,
+              "order": 13,
+              "name_el": "ΦΡΑΠΕ / ΝΕΣ",
+              "name_en": "FRAPE / NES CAFE",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "3,50",
+              "image": "https://app.menurio.com/storage/3116/menurio-kookoovaya-xanthi-2021-11-12-02-35-16.jpg"
+            },
+            {
+              "menurioId": 9374,
+              "order": 14,
+              "name_el": "ΦΙΛΤΡΟΥ",
+              "name_en": "BLACK COFFEE",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "3,50",
+              "image": "https://app.menurio.com/storage/3115/menurio-kookoovaya-xanthi-2021-11-12-02-33-36.jpg"
+            },
+            {
+              "menurioId": 9375,
+              "order": 15,
+              "name_el": "IRISH COFFEE",
+              "name_en": "IRISH COFFEE",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "5,00",
+              "image": null
+            }
+          ]
+        },
+        {
+          "menurioId": 150040,
+          "order": 4,
+          "name_el": "ΤΣΑΙ",
+          "name_en": "TEA",
+          "desc_el": "Ο Δρόμος του Τσαγιού",
+          "desc_en": "The Tea Road",
+          "image": "https://app.menurio.com/storage/30839/menurio-kookoovaya-xanthi-2024-12-03-13-26-54.jpeg",
+          "items": [
+            {
+              "menurioId": 150132,
+              "order": 1,
+              "name_el": "English Breakfast Bio",
+              "name_en": "English Breakfast Bio",
+              "desc_el": "Μαύρο Τσάι - Μίγμα μαύρων τσαγιών βιολογικής καλλιέργειας από τις φυτείες του Nilgiri της Νότιας Ινδίας. Στο τελείωμα γίνονται εμφανείς δροσερές, κιτρώδεις νότες από άνθη λεμονιάς και πορτοκαλιάς.",
+              "desc_en": "Black Tea - A blend of organically grown black teas from the Nilgiri plantations of South India. Cool, citrusy notes of lemon and orange blossoms become evident in the finish.",
+              "price": "3,50",
+              "image": "https://app.menurio.com/storage/30843/menurio-kookoovaya-xanthi-2024-12-03-19-45-42.jpeg"
+            },
+            {
+              "menurioId": 150131,
+              "order": 2,
+              "name_el": "Gunpowder Bio",
+              "name_en": "Gunpowder Bio",
+              "desc_el": "Πράσινο Τσάι - Βιολογικής καλλιέργειας τσάι Gunpowder από την επαρχία Zhejiang της Κίνας. Με δυνατά, πικάντικα και ελαφρώς καπνιστά αρώματα που συνοδεύουν οι γήινες νότες των ξηρών καρπών και οι πιο όξινες των γαλακτοκομικών.",
+              "desc_en": "Green Tea - Organically grown Gunpowder tea from the Zhejiang province of China. With strong, spicy and slightly smoky aromas accompanied by the earthy notes of nuts and the more acidic of dairy.",
+              "price": "3,50",
+              "image": "https://app.menurio.com/storage/30844/menurio-kookoovaya-xanthi-2024-12-03-19-46-11.jpeg"
+            },
+            {
+              "menurioId": 150130,
+              "order": 3,
+              "name_el": "Λευκό Κλωνάρι",
+              "name_en": "White Branch",
+              "desc_el": "Λευκό Τσάι - Φρουτώδης και γλυκιά σύνθεση σε βάση λευκού τσαγιού. Κυριαρχούν τα αρώματα των κράνμπερις και του ανανά ενώ το κυνόροδο και το λεμονόχορτο απλά αρωματίζουν χωρίς να δίνουν οξύτητα.",
+              "desc_en": "White Tea - Fruity and sweet composition based on white tea. The aromas of cranberries and pineapple dominate, while rosehip and lemongrass simply add flavor without giving acidity.",
+              "price": "3,50",
+              "image": "https://app.menurio.com/storage/30845/menurio-kookoovaya-xanthi-2024-12-03-19-46-35.jpeg"
+            },
+            {
+              "menurioId": 150129,
+              "order": 4,
+              "name_el": "Δρόμος Του Μεταξιού",
+              "name_en": "Silk Road",
+              "desc_el": "Μαύρο Τσάι Αρωματισμένο - Το μαύρο και το ροζ πιπέρι, η κανέλα, το κάρδαμο, το γαρύφαλλο αλλά και η πιπερόριζα, πλουτίζουν με τα έντονα αρώματά τους τη σύνθεση αυτή που χρησιμοποιεί ως βάση ένα μαύρο τσάι από την Ινδονησία.",
+              "desc_en": "Aromatic Black Tea - Black and pink pepper, cinnamon, cardamom, cloves and ginger enrich with their strong aromas this composition based on black tea from Indonesia.",
+              "price": "3,50",
+              "image": "https://app.menurio.com/storage/30846/menurio-kookoovaya-xanthi-2024-12-03-19-52-01.jpeg"
+            },
+            {
+              "menurioId": 150128,
+              "order": 5,
+              "name_el": "Τέσσερα Κόκκινα Φρούτα",
+              "name_en": "Four Red Fruits",
+              "desc_el": "Μαύρο Τσάι Αρωματισμένο - Μία χαρούμενη, έντονα φρουτώδης σύνθεση, η οποία ξεχειλίζει από τα γλυκόξινα και δροσιστικά αρώματα της άγριας φράουλας και του σμέουρου που συνοδεύουν το γήινο, ελαφρά στυφό μαύρο τσάι.",
+              "desc_en": "Aromatic Black Tea - A cheerful, intensely fruity composition bursting with sweet and refreshing aromas of wild strawberry and raspberry paired with earthy, slightly astringent black tea.",
+              "price": "3,50",
+              "image": "https://app.menurio.com/storage/30847/menurio-kookoovaya-xanthi-2024-12-03-19-52-30.jpeg"
+            },
+            {
+              "menurioId": 150127,
+              "order": 6,
+              "name_el": "Τσάι Της Παλμύρας",
+              "name_en": "Palmyra Tea",
+              "desc_el": "Μαύρο Τσάι Αρωματισμένο - Μαύρο αρωματισμένο τσάι που μας παρασύρει στο Δρόμο του Μεταξιού και στα παλιά καραβάνια που βαδίζουν νωχελικά κάτω από τον ήλιο της ερήμου. Σύκα, χουρμάδες, σουλτανίνες μαζί με αμύγδαλα και σουσάμι. Ζεστά, μεστά αρώματα που μπλέκονται και δίνουν αρώματα ζεστού ψωμιού αλειμμένου με ταχίνι και μία εσάνς πικραμύγδαλου.",
+              "desc_en": "Aromatic Black Tea - Aromatic black tea that takes us back to the Silk Road and the old caravans lazily marching under the desert sun. Figs, dates, sultanas together with almonds and sesame. Warm, rich aromas that mingle and give aromas of warm bread spread with tahini and an essence of bitter almond.",
+              "price": "3,50",
+              "image": "https://app.menurio.com/storage/30848/menurio-kookoovaya-xanthi-2024-12-03-19-52-57.jpeg"
+            },
+            {
+              "menurioId": 150126,
+              "order": 7,
+              "name_el": "Άνθος Της Πέτρας",
+              "name_en": "Stone Flower",
+              "desc_el": "Πράσινο Τσάι Αρωματισμένο - Φρέσκια, καλοκαιρινή σύνθεση πράσινης sencha, όπου τα εξωτικά αρώματα του μάνγκο παντρεύονται με το γλυκό βερίκοκο. Σε δεύτερο επίπεδο, την εμφάνισή τους κάνουν νότες από καρότο, ξύλο και φρεσκοκομμένο γρασίδι.",
+              "desc_en": "Green Tea Flavored - Fresh, summer composition of green sencha, where the exotic aromas of mango marry with sweet apricot. On the second level, notes of carrot, wood and freshly cut grass make their appearance.",
+              "price": "3,50",
+              "image": "https://app.menurio.com/storage/30849/menurio-kookoovaya-xanthi-2024-12-03-19-53-18.jpeg"
+            },
+            {
+              "menurioId": 150125,
+              "order": 8,
+              "name_el": "Κουαρτέτο Των Γεύσεων",
+              "name_en": "Quartet Of Flavors",
+              "desc_el": "Πράσινο Τσάι Αρωματισμένο - Γλυκιά φθινοπωρινή σύνθεση σε βάση πράσινης sencha. Τα ολόκληρα κομμάτια κάστανου και αμυγδάλου χοροστατούν και δίνουν τον χαρακτήρα, ενώ το κακάο και η κανέλα κρατούν ρόλο συνοδευτικό. Τα άνθη φλαμουριάς προσδίδουν μια νότα φρεσκάδας και δροσιάς. Τσάι ευχάριστο στο σύνολο του, με μακρά επίγευση που θυμίζει σπιτική κρέμα.",
+              "desc_en": "Green Tea Flavored - Sweet autumn composition based on green sencha. The whole pieces of chestnut and almond stand and give character, while cocoa and cinnamon keep an accompanying role. The linden blossoms add a touch of freshness and coolness. Pleasant tea as a whole, with a long aftertaste reminiscent of homemade cream.",
+              "price": "3,50",
+              "image": "https://app.menurio.com/storage/30850/menurio-kookoovaya-xanthi-2024-12-03-19-53-48.jpeg"
+            },
+            {
+              "menurioId": 150124,
+              "order": 9,
+              "name_el": "Μυρωμένος Θάμνος",
+              "name_en": "Scented Bush",
+              "desc_el": "Πράσινο Τσάι Αρωματισμένο - Ένα αρωματισμένο πράσινο τσάι εμπνευσμένο από τις παραδοσιακές συνταγές της Κωνσταντινούπολης. Πορτοκάλι και  μήλο συνδυάζονται αρμονικά με “ζεστά” μπαχαρικά όπως γαρύφαλλο, ροζ πιπέρι, κανέλα, κάρδαμο και σπόρους κορίανδρου, αφήνοντας μία γλυκιά, μακρά επίγευση.",
+              "desc_en": "Green Tea Flavored - A flavored green tea inspired by the traditional recipes of Istanbul. Orange and apple combine harmoniously with \"warm\" spices such as cloves, pink pepper, cinnamon, cardamom and coriander seeds, leaving a sweet, long aftertaste.",
+              "price": "3,50",
+              "image": "https://app.menurio.com/storage/30851/menurio-kookoovaya-xanthi-2024-12-03-19-54-07.jpeg"
+            },
+            {
+              "menurioId": 150078,
+              "order": 10,
+              "name_el": "Μαγικό Δειλινό",
+              "name_en": "Magic Dusk",
+              "desc_el": "Τσάι Oolong - Σύνθεση με ζεστά και ξυλώδη αρώματα με βάση ένα υψηλά οξειδωμένο premium Flowery Oolong. Το σιρόπι σφενδάμου χαρίζει τη χαρακτηριστικά απαλή γεύση του με νότες καραμελωμένης ζάχαρης, λουλουδιών και βανίλιας, ενώ τα κομμάτια καρυδιών και αμυγδάλων προσδίδουν μία γήινη διάσταση στην κούπα. Κάθε γουλιά αφήνει έντονη επίγευση με άρωμα σιροπιού σφενδάμου, λιωμένου βουτύρου και μελιού.",
+              "desc_en": "Oolong Tea - Composition with warm and woody aromas based on a highly oxidized premium Flowery Oolong. Maple syrup lends its characteristically smooth flavor with notes of caramelized sugar, flowers and vanilla, while walnut and almond pieces add an earthy dimension to the mug. Each sip leaves a strong aftertaste with aromas of maple syrup, melted butter and honey.",
+              "price": "3,50",
+              "image": "https://app.menurio.com/storage/30854/menurio-kookoovaya-xanthi-2024-12-03-19-56-09.jpeg"
+            },
+            {
+              "menurioId": 150076,
+              "order": 11,
+              "name_el": "Αλεξανδρινή Συμφωνία",
+              "name_en": "Alexandrian Agreement",
+              "desc_el": "Αποξηραμένα Φρούτα - Όλη η φρεσκάδα της Άνοιξης στην κούπα σας. Φούξια αποχρώσεις με τα αρώματα της φράουλας και της μέντας να κυριαρχούν.",
+              "desc_en": "Dried Fruits - All the freshness of Spring in your mug. Fuchsia shades with the aromas of strawberry and mint dominating.",
+              "price": "3,50",
+              "image": "https://app.menurio.com/storage/30852/menurio-kookoovaya-xanthi-2024-12-03-19-54-57.jpeg"
+            },
+            {
+              "menurioId": 150074,
+              "order": 12,
+              "name_el": "Κόκκινη Πλατεία",
+              "name_en": "Red Square",
+              "desc_el": "Αποξηραμένα Φρούτα - Φρουτώδης, καλοκαιρινή σύνθεση με μία κούπα σε έντονο κόκκινο χρώμα από τον ιβίσκο και τα κράνμπερις. Γεύση έντονη και ξινή που σταδιακά ισορροπείται από τη γλύκα του μήλου και μία πινελιά γλυκάνισου.",
+              "desc_en": "Dried Fruits - Fruity, summer composition with a mug of bright red color from hibiscus and cranberries. Intense and sour taste that is gradually balanced by the sweetness of the apple and a touch of anise.",
+              "price": "3,50",
+              "image": "https://app.menurio.com/storage/30853/menurio-kookoovaya-xanthi-2024-12-03-19-55-16.jpeg"
+            },
+            {
+              "menurioId": 150070,
+              "order": 13,
+              "name_el": "Μίγμα Υγείας",
+              "name_en": "Health Mix",
+              "desc_el": "Τσάι Υγείας & Ευεξίας - Ένα εκρηκτικό κοκτέιλ υγείας για να γεμίσετε με ενέργεια τη μέρα σας. Πρωταγωνιστικά συστατικά του μίγματος, το καρότο, το παντζάρι, ο ευκάλυπτος και τα εσπεριδοειδή.",
+              "desc_en": "Health & Wellness Tea - An explosive health cocktail to fill your day with energy. Leading ingredients of the mixture, carrot, beetroot, eucalyptus and citrus fruits.",
+              "price": "3,50",
+              "image": "https://app.menurio.com/storage/30863/menurio-kookoovaya-xanthi-2024-12-03-20-12-57.jpeg"
+            },
+            {
+              "menurioId": 150068,
+              "order": 14,
+              "name_el": "Olympos Detox Bio",
+              "name_en": "Olympos Detox Bio",
+              "desc_el": "Τσάι Υγείας & Ευεξίας - Ένα μίγμα βοτάνων που μυρίζει ελληνική γη και ελληνικό καλοκαίρι. Μάραθος, θυμάρι, τσάι του βουνού, φασκόμηλο, μελισσόχορτο και χαμομήλι θα συμβάλλουν στην αποτοξίνωση του οργανισμού σας και στη διατήρηση της ευεξίας σας.",
+              "desc_en": "Health & Wellness Tea - A blend of herbs that smells of Greek land and Greek summer. Fennel, thyme, mountain tea, sage, honeysuckle and chamomile will help detoxify your body and maintain your well-being.",
+              "price": "3,50",
+              "image": "https://app.menurio.com/storage/30862/menurio-kookoovaya-xanthi-2024-12-03-20-12-14.jpeg"
+            },
+            {
+              "menurioId": 150067,
+              "order": 15,
+              "name_el": "Τσάι Κρυολογήματος",
+              "name_en": "Tea for the Cold",
+              "desc_el": "Τσάι Υγείας & Ευεξίας - Ένα μίγμα βοτάνων ιδανικό για τις κρύες μέρες του χειμώνα και την πρόληψη των κρυολογημάτων. Η πιπερόριζα και η εχινάκεια θα συμβάλλουν στην τόνωση του ανοσοποιητικού σας συστήματος, ενώ η κανέλα, το χαμομήλι και η γλυκόριζα  θα σας αφήσουν με μια διακριτικά γλυκιά γεύση στο στόμα.",
+              "desc_en": "Health & Wellness Tea - A blend of herbs ideal for cold winter days and the prevention of colds. Ginger and echinacea will help boost your immune system, while cinnamon, chamomile and licorice will leave you with a subtly sweet taste in your mouth.",
+              "price": "3,50",
+              "image": "https://app.menurio.com/storage/30861/menurio-kookoovaya-xanthi-2024-12-03-20-11-02.jpeg"
+            },
+            {
+              "menurioId": 150065,
+              "order": 16,
+              "name_el": "Τσάι Χαλάρωσης",
+              "name_en": "Relaxation Tea",
+              "desc_el": "Τσάι Υγείας & Ευεξίας - Ντελικάτη, αρωματική σύνθεση αποξηραμένων φρούτων, όπως μήλο και ροδάκινο, και βοτάνων, όπως βαλεριάνα, λεβάντα, μολόχα και λεμονόχορτο, που θα σας βοηθήσει να χαλαρώσετε και να βρείτε την εσωτερική σας γαλήνη.",
+              "desc_en": "Health & Wellness Tea - A delicate, aromatic blend of dried fruits, such as apple and peach, and herbs, such as valerian, lavender, mallow and lemongrass, to help you relax and find your inner peace.",
+              "price": "3,50",
+              "image": "https://app.menurio.com/storage/30860/menurio-kookoovaya-xanthi-2024-12-03-20-10-28.jpeg"
+            },
+            {
+              "menurioId": 150064,
+              "order": 17,
+              "name_el": "Rooibos Αβησσυνία",
+              "name_en": "Rooibos Abyssinia",
+              "desc_el": "Rooibos - Ένα πλούσιο μίγμα με βάση το Rooibos. Αρωματικοί σπόροι κακάο, πιπερόριζα και κανέλα σε συνδυασμό με τη γήινη, γλυκιά γεύση του Roοibos. Ευχάριστη επίγευση με διάρκεια. Ιδανική επιλογή για όλες τις ώρες και όλες τις ηλικίες.",
+              "desc_en": "Rooibos",
+              "price": "3,50",
+              "image": "https://app.menurio.com/storage/30859/menurio-kookoovaya-xanthi-2024-12-03-20-10-04.jpeg"
+            },
+            {
+              "menurioId": 150063,
+              "order": 18,
+              "name_el": "Λουίζα",
+              "name_en": "Verbena",
+              "desc_el": "Βότανα - Ένα διακριτικό λεμονάτο άρωμα και αμέτρητα μικρά άνθη στολίζουν τη λουίζα, καλλωπιστικό και φαρμακευτικό φυτό από την Λατινική Αμερική με πλήθος ευεργετικών ιδιοτήτων. Το αφέψημα της λουίζας έxει έντονη διουρητική δράση, η οποία διευκολύνει τη χώνεψη, απομακρύνει τα περιττά υγρά και συμβάλλει ενεργά στη λιποδιάλυση, σύσφιξη του δέρματος και αντιμετώπιση της κυτταρίτιδας. Ακόμη, είναι ένα εξαιρετικό φυσικό ηρεμιστικό που απομακρύνει το άγχος και την αϋπνία, συμβάλλοντας παράλληλα στην ανακούφιση από παντός τύπου πόνους.",
+              "desc_en": "Herbs",
+              "price": "3,50",
+              "image": "https://app.menurio.com/storage/30858/menurio-kookoovaya-xanthi-2024-12-03-20-09-43.jpeg"
+            },
+            {
+              "menurioId": 150053,
+              "order": 19,
+              "name_el": "Μέντα",
+              "name_en": "Mint",
+              "desc_el": "Βότανα - Με άρωμα που ξεχωρίζει και υψηλή θεραπευτική αξία, η μέντα, ιδιαιτέρως αγαπητό από την αρχαιότητα βότανο που αναζωογονεί μυαλό και διάθεση, βρίσκει παράλληλα πλείστες χρήσεις στη μαγειρική, την ιατρική και την κοσμετοποιία. Χάρη στο αιθέριο έλαιο της μενθόλης που βρίσκεται στα φύλλα και στους μίσχους της, η μέντα, βοηθάει στην απόχρεμψη, μαλακώνει το βήχα και ανακουφίζει από πονόλαιμους, ναυτίες και κρυολογήματα. Ακόμη, ελαττώνει τους μυικούς πόνους και εξομαλύνει τους πόνους της περιόδου. Σε πολλούς λαούς, το αφέψημά της σερβίρεται μετά από τα  γεύματα, καθώς βοηθάει στη χώνεψη, “στρώνει” το στομάχι  και δροσίζει την αναπνοή.",
+              "desc_en": "Herbs",
+              "price": "3,50",
+              "image": "https://app.menurio.com/storage/30857/menurio-kookoovaya-xanthi-2024-12-03-20-09-29.jpeg"
+            },
+            {
+              "menurioId": 150051,
+              "order": 20,
+              "name_el": "Τσάι Του Βουνού",
+              "name_en": "Mountain Tea",
+              "desc_el": "Βότανα - Αυτοφυές των ορεινών περιοχών της Ελλάδας, το Τσάι του βουνού αποτελεί ένα από τα πιο αναγνωρίσιμα κι αγαπημένα βότανα της χώρας μας, διεθνώς γνωστό με την ονομασία “Greek Mountain Tea”. Παραδοσιακά, θεωρείται τονωτικό του οργανισμού και καταναλώνεται ως επί το πλείστον το χειμώνα, καθώς συμβάλλει στη βελτίωση των παθήσεων του αναπνευστικού και στην καταπολέμηση των κρυολογημάτων. Φέρει, επίσης, αντιυπερτασικές ιδιότητες και φαίνεται να προλαμβάνει την εμφάνιση της οστεοπόρωσης.",
+              "desc_en": "Herbs",
+              "price": "3,50",
+              "image": "https://app.menurio.com/storage/30856/menurio-kookoovaya-xanthi-2024-12-03-20-09-13.jpeg"
+            },
+            {
+              "menurioId": 150044,
+              "order": 21,
+              "name_el": "Χαμομήλι",
+              "name_en": "Chamomile",
+              "desc_el": "Βότανα - Γνωστό σε όλους και βαθιά ριζωμένο στην παράδοσή μας για τις γνωστές από την αρχαιότητα θεραπευτικές ιδιότητες του, το χαμομήλι, αρωματικό φυτό με κομψή όψη και λεπτό, γλυκό άρωμα, κατέχει επάξια μια θέση στο ντουλάπι μας. Είθισται να το πίνουμε γιατί μας χαλαρώνει και μας προετοιμάζει για το βραδινό ύπνο. Εξίσου σημαντική, ωστόσο, είναι η ηρεμιστική του δράση στις παθήσεις που σχετίζονται με τα νεύρα όπως ημικρανίες και νευραλγίες αλλά και η ανακούφιση που προσφέρει στις στομαχικές διαταραχές και στους πόνους της περιόδου. Παραδοσιακά, χρησιμοποιείται για το ¨καλμάρισμα¨ νεογέννητων και νηπίων που διανύουν τη φάση της οδοντοφυΐας, αλλά και για την ανακούφιση από ήπιες δερματικές παθήσεις.",
+              "desc_en": "Herbs",
+              "price": "3,50",
+              "image": "https://app.menurio.com/storage/30855/menurio-kookoovaya-xanthi-2024-12-03-20-08-52.jpeg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menurioId": 439,
+      "order": 2,
+      "name_el": "ΠΡΩΙΝΑ ΓΕΥΜΑΤΑ",
+      "name_en": "BRUNCH",
+      "desc_el": "Bowls/Αυγά/ Πάνκεϊκ/ Σάντουιτς/ Γλυκά/ Πρωινό Για 2",
+      "desc_en": "Bowls / Eggs/ Pies & Pastries / Pancakes / Sandwiches /",
+      "image": "https://app.menurio.com/storage/6118/menurio-kookoovaya-xanthi-2022-06-25-13-25-19.jpeg",
+      "categories": [
+        {
+          "menurioId": 72744,
+          "order": 1,
+          "name_el": "Bowls",
+          "name_en": "Bowls",
+          "desc_el": "",
+          "desc_en": "",
+          "image": null,
+          "items": [
+            {
+              "menurioId": 72745,
+              "order": 0,
+              "name_el": "Παραδοσιακό Μπoλ",
+              "name_en": "Traditional Bowl",
+              "desc_el": "Με ελληνικό γιαούρτι, φρέσκα φρούτα εποχής, χειροποίητη granola, πευκόμελο Θάσου, κάσιους, αμύγδαλα & φουντουκοβούτυρο.",
+              "desc_en": "With Greek yogurt, fresh seasonal fruits, handmade granola, Thassos pine honey, cashews, almonds & hazelnut butter.",
+              "price": "6,50",
+              "image": null
+            },
+            {
+              "menurioId": 72746,
+              "order": 0,
+              "name_el": "Γλυκό Μπoλ",
+              "name_en": "Sweet Bowl",
+              "desc_el": "Με κρέμα Πατισερί, φυστικοβούτυρο, ταχίνι, μπανάνες, φουντούκια & νιφάδες σοκολάτας.",
+              "desc_en": "With pastry cream, peanut butter, tahini, bananas, hazelnuts & chocolate flakes.",
+              "price": "6,50",
+              "image": null
+            }
+          ]
+        },
+        {
+          "menurioId": 9353,
+          "order": 2,
+          "name_el": "Αυγά",
+          "name_en": "Eggs",
+          "desc_el": "",
+          "desc_en": "",
+          "image": null,
+          "items": [
+            {
+              "menurioId": 9356,
+              "order": 1,
+              "name_el": "Κροκ Μαντάμ",
+              "name_en": "Croque Madame",
+              "desc_el": "Με αυγόφετες brioche, ζαμπόν Δράμας, καπνιστό τυρί, μπεσαμέλ & τηγανητό αυγό.",
+              "desc_en": "With brioche egg fritters, Drama's ham, smoked cheese, béchamel & fried egg.",
+              "price": "7,90",
+              "image": null
+            },
+            {
+              "menurioId": 9357,
+              "order": 2,
+              "name_el": "Ομελέτα Μανιταριών",
+              "name_en": "Mushroom omelette",
+              "desc_el": "Με φρέσκια τρούφα, τυρί κρέμα & ζεστό προζυμένιο ψωμί.",
+              "desc_en": "With fresh truffle, cream cheese & warm sourdough bread.",
+              "price": "8,50",
+              "image": null
+            },
+            {
+              "menurioId": 18215,
+              "order": 3,
+              "name_el": "Αυγά Ποσέ",
+              "name_en": "Poached eggs",
+              "desc_el": "Με κρέμα στακοβούτυρο, σπανάκι, μανιτάρια & ζεστό πολύσπορο ψωμί.",
+              "desc_en": "With staka-butter cream, spinach, mushrooms & warm multigrain bread.",
+              "price": "7,50",
+              "image": null
+            },
+            {
+              "menurioId": 9354,
+              "order": 4,
+              "name_el": "Αβοκάντο Τοστ",
+              "name_en": "Avocado Toast",
+              "desc_el": "Με φρέσκο γουακαμόλε, ξινόκρεμα, αυγά ποσέ & ζεστό πολύσπορο ψωμί.",
+              "desc_en": "With fresh guacamole, sour cream, poached eggs & warm multigrain bread.",
+              "price": "6,90",
+              "image": null
+            },
+            {
+              "menurioId": 31823,
+              "order": 5,
+              "name_el": "Αυγά μάτια",
+              "name_en": "Fried eggs",
+              "desc_el": "Με κρέμα γαλομυζήθρας, ντοματίνια, λάδι πάπρικας & χειροποίητη πίτα νααν.",
+              "desc_en": "With galomyzithra cream, cherry tomatoes, paprika oil & handmade naan pie.",
+              "price": "7,50",
+              "image": null
+            },
+            {
+              "menurioId": 9355,
+              "order": 6,
+              "name_el": "Αυγά Σκραμπλ",
+              "name_en": "Scrambled Eggs",
+              "desc_el": "Με λουκάνικο, κασέρι Ξάνθης, τηγανητή πατάτα  & παραδοσιακό κουλούρι.",
+              "desc_en": "With sausage, Xanthi's cheddar cheese, fried potato & traditional bun.",
+              "price": "7,50",
+              "image": null
+            }
+          ]
+        },
+        {
+          "menurioId": 9349,
+          "order": 3,
+          "name_el": "Χειροποίητες Πίτες & Ζύμες",
+          "name_en": "Handmade Pies & Pastries",
+          "desc_el": "",
+          "desc_en": "",
+          "image": null,
+          "items": [
+            {
+              "menurioId": 31824,
+              "order": 1,
+              "name_el": "Πιροσκί",
+              "name_en": "Piroski",
+              "desc_el": "Με παραδοσιακή φέτα Ξάνθης & τραχανά λαχανικών.",
+              "desc_en": "With traditional Xanthi's feta cheese & trachana vegetables.",
+              "price": "6,90",
+              "image": null
+            },
+            {
+              "menurioId": 9352,
+              "order": 2,
+              "name_el": "Παραδοσιακή Πίτα Ημέρας",
+              "name_en": "Traditional Pie of the Day",
+              "desc_el": "Ρωτήστε μας...",
+              "desc_en": "Ask us...",
+              "price": "7,50",
+              "image": null
+            },
+            {
+              "menurioId": 18209,
+              "order": 3,
+              "name_el": "Πεϊνιρλί",
+              "name_en": "Painirli",
+              "desc_el": "Με καβουρμά, κασέρι Ξάνθης, σπανάκι & μελάτο αυγό.",
+              "desc_en": "With kavourmas, Xanthi's cheddar cheese, spinach & soft-boiled egg.",
+              "price": "8,90",
+              "image": null
+            },
+            {
+              "menurioId": 9351,
+              "order": 4,
+              "name_el": "Λαχματζούν",
+              "name_en": "Lakhmatjoon",
+              "desc_el": "Με κιμά, ξινόκρεμα, πίκλα κρεμμυδιού & ντομάτα.",
+              "desc_en": "With minced meat, sour cream, pickled onion & tomato.",
+              "price": "8,50",
+              "image": null
+            }
+          ]
+        },
+        {
+          "menurioId": 72752,
+          "order": 4,
+          "name_el": "Πάνκεϊκ",
+          "name_en": "Pancakes",
+          "desc_el": "",
+          "desc_en": "",
+          "image": null,
+          "items": [
+            {
+              "menurioId": 72754,
+              "order": 1,
+              "name_el": "Chicken Avocado",
+              "name_en": "Chicken Avocado",
+              "desc_el": "Με κοτόπουλο σε πάνκο, γουακαμόλε, χειροποίητη cheddar sause & αυγό μάτι.",
+              "desc_en": "With chicken in panko, guacamole, handmade cheddar sauce & fried egg.",
+              "price": "7,50",
+              "image": null
+            },
+            {
+              "menurioId": 9350,
+              "order": 2,
+              "name_el": "Urban Gastronomy",
+              "name_en": "Urban Gastronomy",
+              "desc_el": "Με καπνιστή γαλοπούλα, μπέικον, κασέρι Ξάνθης, ρόκα, μαγιονέζα & αυγό μάτι.",
+              "desc_en": "With smoked turkey, bacon, Xanthi's cheddar cheese, arugula, mayonnaise & fried egg.",
+              "price": "7,50",
+              "image": null
+            },
+            {
+              "menurioId": 72755,
+              "order": 3,
+              "name_el": "Salted Caramel Oreo",
+              "name_en": "Salted Caramel Oreo",
+              "desc_el": "Με Nutella, μπισκότο Oreo, αλατισμένη καραμέλα, μπανάνα & παγωτό βανίλια.",
+              "desc_en": "With Nutella, Oreo cookie, salted caramel, banana & vanilla ice cream.",
+              "price": "7,50",
+              "image": null
+            },
+            {
+              "menurioId": 18211,
+              "order": 4,
+              "name_el": "Framboise",
+              "name_en": "Framboise",
+              "desc_el": "Με Nutella, τριμμένο μπισκότο, φρούτα του δάσους & παγωτό σοκολάτα σε χωνάκι.",
+              "desc_en": "With Nutella, grated biscuit, forest fruits & chocolate ice cream in a cone.",
+              "price": "7,50",
+              "image": null
+            },
+            {
+              "menurioId": 18213,
+              "order": 5,
+              "name_el": "Buenogiorno",
+              "name_en": "Buenogiorno",
+              "desc_el": "Με πραλίνα Bueno, τριμμένο μπισκότο, φουντούκια, άχνη ζάχαρη & παγωτό βανίλια σε χωνάκι.",
+              "desc_en": "With Bueno praline, crushed biscuit, hazelnuts, powdered sugar & vanilla ice cream in a cone.",
+              "price": "7,50",
+              "image": null
+            }
+          ]
+        },
+        {
+          "menurioId": 72753,
+          "order": 5,
+          "name_el": "Σάντουιτς",
+          "name_en": "Sandwiches",
+          "desc_el": "",
+          "desc_en": "",
+          "image": null,
+          "items": [
+            {
+              "menurioId": 18210,
+              "order": 1,
+              "name_el": "Κλαμπ Σάντουιτς Κουκουβάγια",
+              "name_en": "Kookoovaya's Club Sandwich",
+              "desc_el": "Με κοτόπουλο σε πάνκο, μπέικον, τυρί cheddar, τηγανητό αυγό, μαρούλι, μαγιονέζα & φρέσκιες τηγανητές πατάτες.",
+              "desc_en": "With chicken in panko, bacon, cheddar cheese, fried egg, lettuce, mayonnaise & fresh french fries.",
+              "price": "8,50",
+              "image": null
+            },
+            {
+              "menurioId": 72756,
+              "order": 2,
+              "name_el": "Katsu Sando",
+              "name_en": "Katsu Sando",
+              "desc_el": "Φιλέτο κοτόπουλο σε πάνκο, πίκλα κόκκινου λάχανου & coleslaw με πράσινο μήλο.",
+              "desc_en": "Pork chop in panko, pickled red cabbage & coleslaw with green apple.",
+              "price": "8,50",
+              "image": null
+            }
+          ]
+        },
+        {
+          "menurioId": 9358,
+          "order": 6,
+          "name_el": "Χειροποίητα Γλυκά",
+          "name_en": "Handmade Sweets",
+          "desc_el": "",
+          "desc_en": "",
+          "image": null,
+          "items": [
+            {
+              "menurioId": 72747,
+              "order": 1,
+              "name_el": "Μηλόπιτα",
+              "name_en": "Apple Pie",
+              "desc_el": "Με καραμέλα & παγωτό βανίλια",
+              "desc_en": "With caramel & vanilla ice cream",
+              "price": "5,90",
+              "image": null
+            },
+            {
+              "menurioId": 18212,
+              "order": 2,
+              "name_el": "Παραδοσιακό Κιουνεφέ",
+              "name_en": "Traditional Kiunefe",
+              "desc_el": "Με κασέρι, σιρόπι & φυστίκι Αιγίνης.",
+              "desc_en": "With cheese, syrup & pistachios.",
+              "price": "7,50",
+              "image": null
+            },
+            {
+              "menurioId": 72748,
+              "order": 3,
+              "name_el": "Καρυδόπιτα",
+              "name_en": "Pecan Pie",
+              "desc_el": "Με παγωτό  βανίλια.",
+              "desc_en": "With vanilla ice cream.",
+              "price": "5,90",
+              "image": null
+            }
+          ]
+        },
+        {
+          "menurioId": 72749,
+          "order": 7,
+          "name_el": "Πρωινό  Για 2",
+          "name_en": "Breakfast For 2",
+          "desc_el": "",
+          "desc_en": "",
+          "image": null,
+          "items": [
+            {
+              "menurioId": 72751,
+              "order": 0,
+              "name_el": "Πρωινό  Για 2",
+              "name_en": "Breakfast For 2",
+              "desc_el": "Πανκέικ, χειροποίητες πίτες νααν, κρουασάν βουτύρου, αυγά μάτια, αυγά σκραμπλ, μπέικον, λουκάνικο, κασέρι Ξάνθης, πευκόμελο Ξάνθης, γιαούρτι, φρέσκα φρούτα εποχής, Nutella & κρέμα φυστικοβούτυρο.",
+              "desc_en": "Pancakes, handmade naan pies, butter croissants, fried eggs, scrambled eggs, bacon, sausage, Xanthi's cheddar cheese, Xanthi's pine honey, yogurt, fresh seasonal fruit, Nutella & peanut butter cream.",
+              "price": "",
+              "image": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menurioId": 2710,
+      "order": 3,
+      "name_el": "ΜΕΝΟΥ ΦΑΓΗΤΟΥ",
+      "name_en": "FOOD MENU",
+      "desc_el": "Salads / Antipasti / Pasta & Risotto / Main Courses / Burgers / Pizza / Premium Cuts",
+      "desc_en": "INSALATA/ANTIPASTI/PASTA & RISOTTO/MAIN COURSES/PREMIUM CUTS/BURGERS/PIZZA/DESSERTS",
+      "image": "https://app.menurio.com/storage/14862/menurio-kookoovaya-xanthi-2023-06-12-22-18-50.jpeg",
+      "categories": [
+        {
+          "menurioId": 9412,
+          "order": 1,
+          "name_el": "INSALATA",
+          "name_en": "INSALATA",
+          "desc_el": "",
+          "desc_en": "",
+          "image": "https://app.menurio.com/storage/7870/menurio-kookoovaya-xanthi-2022-11-05-13-58-50.jpeg",
+          "items": [
+            {
+              "menurioId": 127671,
+              "order": 1,
+              "name_el": "SUMMER BURRATA",
+              "name_en": "SUMMER BURRATA",
+              "desc_el": "Σαλάτα με ντοματίνια, κρέμα stracciatella, ψητά ροδάκινα, πίκλα κρεμμύδι λάδι βασιλικού & dressing ψητής ντομάτας.",
+              "desc_en": "Salad with cherry tomatoes, stracciatella cream, roasted peaches, pickled onion, basil oil & roasted tomato dressing.",
+              "price": "12,50",
+              "image": null
+            },
+            {
+              "menurioId": 9414,
+              "order": 2,
+              "name_el": "CEASAR’S",
+              "name_en": "CEASAR'S SALAD",
+              "desc_el": "Δροσερά φύλλα σαλάτας, κροκέτες κοτόπουλο, crispy bacon, παρμεζάνα 24 μηνών ωρίμανσης & χειροποίητη Ceasar’s Sauce.",
+              "desc_en": "Fresh salad leaves, chicken croquettes, bacon, 24-month-aged parmesan & handmade Caesar sauce.",
+              "price": "9,50",
+              "image": null
+            },
+            {
+              "menurioId": 9413,
+              "order": 3,
+              "name_el": "POPEYE",
+              "name_en": "POPEYE SALAD",
+              "desc_el": "Φύλλα από Baby σπανάκι & baby ρόκα, crispy ποσέ αυγό, φέτα σαγανάκι, bacon, ψητά μανιτάρια, τραγανά φύλλα σουσάμι & honey mustard sauce.",
+              "desc_en": "Leaves of baby spinach & baby arugula, crispy poached egg, bacon, grilled mushrooms, crispy crust leaves & honey mustard sauce.",
+              "price": "9,50",
+              "image": null
+            },
+            {
+              "menurioId": 127670,
+              "order": 4,
+              "name_el": "ΠΑΤΑΤΟΣΑΛΑΤΑ",
+              "name_en": "POTATO SALAD",
+              "desc_el": "Φρέσκα μυρωδικά, πίκλα αγγουριού, αυγό & dressing μαγιονέζας.",
+              "desc_en": "Fresh herbs, pickled cucumber, egg & mayonnaise dressing.",
+              "price": "8,50",
+              "image": null
+            }
+          ]
+        },
+        {
+          "menurioId": 9400,
+          "order": 2,
+          "name_el": "ANTIPASTI",
+          "name_en": "ANTIPASTI",
+          "desc_el": "",
+          "desc_en": "",
+          "image": "https://app.menurio.com/storage/32326/menurio-kookoovaya-xanthi-2025-02-27-14-55-38.jpeg",
+          "items": [
+            {
+              "menurioId": 31826,
+              "order": 1,
+              "name_el": "ΦΡΕΣΚΟΨΗΜΕΝΗ ΦΟΚΑΤΣΙΑ ΜΕ ΜΑΡΙΝΑΡΙΣΜΕΝΕΣ ΕΛΙΕΣ",
+              "name_en": "FRESHLY BAKED FOCACCIA WITH MARINATED OLIVES",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "",
+              "image": null
+            },
+            {
+              "menurioId": 77139,
+              "order": 2,
+              "name_el": "ΦΡΕΣΚΕΣ ΤΗΓΑΝΗΤΕΣ ΠΑΤΑΤΕΣ",
+              "name_en": "FRESH FRENCH FRIES",
+              "desc_el": "Με τριμμένη παρμεζάνα & φρέσκια ρίγανη.",
+              "desc_en": "With grated parmesan & fresh oregano.",
+              "price": "5,90",
+              "image": null
+            },
+            {
+              "menurioId": 127675,
+              "order": 3,
+              "name_el": "ΜΠΟΥΡΕΚΑΚΙΑ",
+              "name_en": "FRIED FILLED PASTRY",
+              "desc_el": "Μους φέτας, πρόβειο γιαούρτι & φρέσκα ροδάκινα",
+              "desc_en": "Feta mousse, yogurt & fresh peaches",
+              "price": "8,50",
+              "image": null
+            },
+            {
+              "menurioId": 9408,
+              "order": 4,
+              "name_el": "ΑΛΜΥΡΟ ΚΙΟΥΝΕΦΕ",
+              "name_en": "SALTY KIUNEFE",
+              "desc_el": "Κανταΐφι, παραδοσιακή φέτα Ξάνθης, φυστίκι Αιγίνης & γλυκό κουταλιού βύσσινο.",
+              "desc_en": "Τraditional Xanthi's feta cheese wrapped in Kadaifi, pistachios  & sour cherry sauce.sour cherry yogurt parfait.",
+              "price": "7,90",
+              "image": null
+            },
+            {
+              "menurioId": 127672,
+              "order": 5,
+              "name_el": "ΚΡΟΚΕΤΕΣ ΜΟΥΣΑΚΑ",
+              "name_en": "MOUSSAKA CROQUETS",
+              "desc_el": "Μπεσαμέλ μπερ νουαζέτ, κιμάς black angus & κασέρι Ξάνθης.",
+              "desc_en": "Béchamel beurre noisette, black angus minced meat & Xanthi's cheese.",
+              "price": "9,50",
+              "image": null
+            },
+            {
+              "menurioId": 9401,
+              "order": 6,
+              "name_el": "ΤΗΓΑΝΗΤΑ ΒΡΑΧΑΚΙΑ ΠΑΤΑΤΑΣ",
+              "name_en": "FRIED POTATO ROCKS",
+              "desc_el": "Με κρέμα στάκας - γραβιέρας, crispy αυγό ποσέ & παραδοσιακό θρακιώτικο λουκάνικο.",
+              "desc_en": "With graviera & staka cream, crispy poached egg & traditional Thracian sausage.",
+              "price": "7,50",
+              "image": null
+            },
+            {
+              "menurioId": 127679,
+              "order": 7,
+              "name_el": "ΜΑΝΙΤΑΡΙΑ ¨ΦΡΙΚΑΣΕ¨",
+              "name_en": "MUSHROOMS FRICASSÉE",
+              "desc_el": "Με Θρακιώτικο καβουρμά, κρέμα πατάτας με τρούφα & crispy αυγό.",
+              "desc_en": "With Thracian kavourmas, truffle potato cream & crispy egg.",
+              "price": "9,50",
+              "image": null
+            },
+            {
+              "menurioId": 127678,
+              "order": 8,
+              "name_el": "TZATZIKI ABOKANTO",
+              "name_en": "AVOCADO TZATZIKI",
+              "desc_el": "Chips τορτίγιας, chilli & lime.",
+              "desc_en": "Tortilla chips, chilli & lime.",
+              "price": "8,90",
+              "image": null
+            },
+            {
+              "menurioId": 127677,
+              "order": 9,
+              "name_el": "ΣΝΙΤΣΕΛ ΜΕΛΙΤΖΑΝΑΣ",
+              "name_en": "EGGPLANT SCHNITZEL",
+              "desc_el": "Pico de gallo, κασέρι Ξάνθης & Ξύδι Xeres.",
+              "desc_en": "Pico de gallo, Xanthi's cheese & Xeres vinegar.",
+              "price": "8,50",
+              "image": null
+            },
+            {
+              "menurioId": 9406,
+              "order": 10,
+              "name_el": "CARPACCIO ΑΠΟ ΦΙΛΕΤΟ ΕΛΛΗΝΙΚΗΣ ΜΟΣΧΙΔΑΣ",
+              "name_en": "GREEK MOSQUE FILLET CARPACCIO",
+              "desc_el": "Με κασέρι Ξάνθης, άγρια ρόκα, τριμμένο φουντούκι & μαγιονέζα τρούφας.",
+              "desc_en": "With Xanthi's caseri cheese, wild rocket, grated hazelnut & truffle mayonnaise.",
+              "price": "12,50",
+              "image": null
+            },
+            {
+              "menurioId": 18219,
+              "order": 11,
+              "name_el": "BIG PLATTER",
+              "name_en": "ANTIPASTI BIG PLATTER",
+              "desc_el": "Ποικιλία από τυριά & αλλαντικά.",
+              "desc_en": "A Variety Of Cheeses & Cold Meat Cuts.",
+              "price": "15,00",
+              "image": null
+            },
+            {
+              "menurioId": 127673,
+              "order": 12,
+              "name_el": "ARANCINI RAGU",
+              "name_en": "ARANCINI RAGU",
+              "desc_el": "Κροκέτα ρυζιού με μοσχαρίσιο μάγουλο, κατσικίσιος κορμός & cacio e pepe sauce.",
+              "desc_en": "Rice croquette with beef cheeks, goat cheese log & cacio e pepe sauce.",
+              "price": "9,50",
+              "image": null
+            },
+            {
+              "menurioId": 77140,
+              "order": 13,
+              "name_el": "SMALL PLATTER",
+              "name_en": "ANTIPASTI SMALL PLATTER",
+              "desc_el": "Ποικιλία από τυριά & αλλαντικά.",
+              "desc_en": "A Variety Of Cheeses & Cold Meat Cuts.",
+              "price": "9,00",
+              "image": null
+            }
+          ]
+        },
+        {
+          "menurioId": 59026,
+          "order": 3,
+          "name_el": "PASTA & RISOTTO",
+          "name_en": "PASTA & RISOTTO",
+          "desc_el": "",
+          "desc_en": "",
+          "image": "https://app.menurio.com/storage/32328/menurio-kookoovaya-xanthi-2025-02-27-15-03-15.jpeg",
+          "items": [
+            {
+              "menurioId": 154369,
+              "order": 1,
+              "name_el": "RAVIOLI PORCINI",
+              "name_en": "RAVIOLI PORCINI",
+              "desc_el": "Κρέμα πεκορίνο, μανιτάρια porcini & cripsy prosciutto.",
+              "desc_en": "Creamy pecorino, porcini mushrooms & crispy prosciutto.",
+              "price": "12,90",
+              "image": null
+            },
+            {
+              "menurioId": 59027,
+              "order": 2,
+              "name_el": "RISOTTO MILANESE",
+              "name_en": "RISOTTO MILANESE",
+              "desc_el": "Κρέμα γραβιέρας, σαφράν & σιγομαγειρεμένα μάγουλα",
+              "desc_en": "Gruyere cream, saffron & slow-cooked cheeks",
+              "price": "14,50",
+              "image": null
+            },
+            {
+              "menurioId": 59033,
+              "order": 3,
+              "name_el": "GNOCCHI GORGONZOLA",
+              "name_en": "GNOCCHI GORGONZOLA",
+              "desc_el": "Χειροποίητα νιόκι με prosciutto, gorgonzola κρέμα παρμεζάνας & καβουρδισμένο φουντούκι.",
+              "desc_en": "Handmade gnocchi with prosciutto, gorgonzola cream, parmesan cream & grated hazelnuts.",
+              "price": "11,50",
+              "image": null
+            },
+            {
+              "menurioId": 154370,
+              "order": 4,
+              "name_el": "RISOTTO ΑΓΡΙΩΝ ΜΑΝΙΤΑΡΙΩΝ",
+              "name_en": "WILD MUSHROOM RISOTTO",
+              "desc_el": "Με μανιτάρια σιτάκε, πορτομπέλο & παρμεζάνα 24 μηνών ωρίμανσης.",
+              "desc_en": "With shiitake mushrooms, portobello mushrooms & 24-month-aged parmesan.",
+              "price": "11,50",
+              "image": null
+            },
+            {
+              "menurioId": 59030,
+              "order": 5,
+              "name_el": "CARBONARA KOOKOOVAYA",
+              "name_en": "KOOKOOVAYA'S CARBONARA",
+              "desc_el": "Σκιουφιχτά με κρέμα στάκας, καπνιστό χοιρινό φιλέτο & γραβιέρα Νάξου.",
+              "desc_en": "Skiufichta with staka cream, smoked pork fillet & Naxos graviera.",
+              "price": "9,50",
+              "image": null
+            },
+            {
+              "menurioId": 59029,
+              "order": 6,
+              "name_el": "ΓΚΟΓΚΕΣ ΜΕ ΜΟΣΧΑΡΙ ΡΑΓΟΥ",
+              "name_en": "GOGES WITH BEEF RAGU",
+              "desc_el": "Σιγομαγειρεμένο μοσχάρι για 12 ώρες, φρέσκο βούτυρο & ξηρό ανθότυρο Κρήτης.",
+              "desc_en": "Slow-cooked beef for 12 hours, fresh butter & dry Cretan anthotyro cheese.",
+              "price": "11,50",
+              "image": null
+            }
+          ]
+        },
+        {
+          "menurioId": 9441,
+          "order": 4,
+          "name_el": "MAIN COURSES",
+          "name_en": "MAIN COURSES",
+          "desc_el": "",
+          "desc_en": "",
+          "image": "https://app.menurio.com/storage/32400/menurio-kookoovaya-xanthi-2025-03-03-23-04-26.jpeg",
+          "items": [
+            {
+              "menurioId": 127681,
+              "order": 1,
+              "name_el": "ΚΟΤΟΛΕΤΑ MILANESE",
+              "name_en": "PORK CUTLET MILANESE",
+              "desc_el": "Τραγανή κοτολέτα σε πανκο & χειροποίητη πατατοσαλάτα.",
+              "desc_en": "Crispy pork cutlet in panko, coleslaw salad & handmade potato salad.",
+              "price": "12,50",
+              "image": null
+            },
+            {
+              "menurioId": 9447,
+              "order": 2,
+              "name_el": "SLOW COOKED ΜΟΣΧΑΡΙΣΙΑ ΜΑΓΟΥΛΑ",
+              "name_en": "SLOW COOKED BEEF CHEEKS",
+              "desc_el": "Σιγομαγειρεμένα για 12 ώρες, κρέμα πατάτας, κουκουνάρι & λαδι μυρωδικών.",
+              "desc_en": "Beef cheeks slow cooked for 12 hours, potato cream, pine nuts & herb oil.",
+              "price": "15,50",
+              "image": null
+            },
+            {
+              "menurioId": 77145,
+              "order": 3,
+              "name_el": "ΜΟΣΧΑΡΙΣΙΟ ΦΙΛΕΤΟ ΜΕ ΝΙΟΚΙ",
+              "name_en": "BEEF FILLET WITH GNOCCHI",
+              "desc_el": "Με χειροποίητα νιόκι, κρέμα παρμεζάνας & άγρια μανιτάρια",
+              "desc_en": "With handmade gnocchi, parmesan cream & wild mushrooms.",
+              "price": "19,50",
+              "image": null
+            },
+            {
+              "menurioId": 18228,
+              "order": 4,
+              "name_el": "ΚΕΜΠΑΠ ΩΡΙΜΑΝΣΗΣ",
+              "name_en": "AGED BEEF KEBAB",
+              "desc_el": "Χειροποιήτες πίτες νααν, τηγανητές πατάτες με φλούδα & αρωματικό γιαούρτι.",
+              "desc_en": "Handmade naan pies, fried skin potatoes & greek yogurt with herbs.",
+              "price": "12,50",
+              "image": null
+            },
+            {
+              "menurioId": 154372,
+              "order": 5,
+              "name_el": "ΜΠΙΦΤΕΚΙ BLACK ANGUS",
+              "name_en": "BLACK ANGUS BURGER",
+              "desc_el": "Τζατζίκι αβοκάντο, τηγανητές πατάτες με φλούδα",
+              "desc_en": "Avocado tzatziki, french fries with skin.",
+              "price": "12,50",
+              "image": null
+            },
+            {
+              "menurioId": 77146,
+              "order": 6,
+              "name_el": "ΠΟΙΚΙΛΙΑ ΛΟΥΚΑΝΙΚΩΝ ΓΙΑ 2",
+              "name_en": "VARIETY OF SAUSAGES FOR 2 PERSONS",
+              "desc_el": "Chips τορτίγιας, τζατζίκι αβοκάντο & τηγανητές πατάτες με φλούδα.",
+              "desc_en": "Tortilla chips, avocado tzatziki & french fries with skin.",
+              "price": "16,50",
+              "image": null
+            },
+            {
+              "menurioId": 9442,
+              "order": 7,
+              "name_el": "ΜΙΣΟ ΚΟΤΟΠΟΥΛΟ ΦΙΛΕΤΟ",
+              "name_en": "GRILLED HALF CHICKEN FILLET",
+              "desc_el": "Με ψητά λαχανικά σχάρας & dressing μουσταρδας.",
+              "desc_en": "With grilled vegetables & lemon mustard dressing.",
+              "price": "13,50",
+              "image": null
+            },
+            {
+              "menurioId": 154371,
+              "order": 8,
+              "name_el": "TAGLIATTA SHORT RIBS",
+              "name_en": "TAGLIATTA SHORT RIBS",
+              "desc_el": "Πράσα αχνιστά, πουρές γλυκοπατάτας & σάλτσα espresso",
+              "desc_en": "Steamed leeks, mashed sweet potatoes & espresso sauce.",
+              "price": "16,50",
+              "image": null
+            },
+            {
+              "menurioId": 154373,
+              "order": 9,
+              "name_el": "ΑΡΝΑΚΙ ΜΠΑΛΟΤΙΝΑ",
+              "name_en": "BALOTINA LAMB",
+              "desc_el": "Πατάτες bravas & δενδρολίβανο.",
+              "desc_en": "Potatoes bravas & rosemary.",
+              "price": "14,50",
+              "image": null
+            }
+          ]
+        },
+        {
+          "menurioId": 77141,
+          "order": 5,
+          "name_el": "PREMIUM CUTS",
+          "name_en": "PREMIUM CUTS",
+          "desc_el": "",
+          "desc_en": "",
+          "image": "https://app.menurio.com/storage/32329/menurio-kookoovaya-xanthi-2025-02-27-15-06-31.jpeg",
+          "items": [
+            {
+              "menurioId": 77142,
+              "order": 1,
+              "name_el": "TAGLIATTA FLAT IRON ΩΡΙΜΑΝΣΗΣ 250gr",
+              "name_en": "TAGLIATA FLAT IRON AGED 250gr.",
+              "desc_el": "Baby πατάτες, au jus & άνθος αλατιού.",
+              "desc_en": "Baby potatoes, au jus & fleur de sel.",
+              "price": "19,50",
+              "image": null
+            },
+            {
+              "menurioId": 77144,
+              "order": 2,
+              "name_el": "RIBEYE BLACK ANGUS ΑΜΕΡΙΚΗΣ 250gr",
+              "name_en": "AMERICAN BLACK ANGUS RIBEYE 250gr",
+              "desc_el": "Baby πατάτες, au jus & άνθος αλατιού.",
+              "desc_en": "Baby potatoes, au jus & fleur de sel.",
+              "price": "29,50",
+              "image": null
+            },
+            {
+              "menurioId": 59036,
+              "order": 3,
+              "name_el": "HANGER STEAK 250gr",
+              "name_en": "HANGER STEAK 250gr",
+              "desc_el": "Πατάτες, au jus & άνθος αλατιού.",
+              "desc_en": "Potatoes, au jus, & fleur de sel.",
+              "price": "19,50",
+              "image": null
+            }
+          ]
+        },
+        {
+          "menurioId": 9429,
+          "order": 6,
+          "name_el": "PREMIUM BEEF & CHICKEN BURGERS",
+          "name_en": "PREMIUM BEEF & CHICKEN BURGERS",
+          "desc_el": "",
+          "desc_en": "",
+          "image": "https://app.menurio.com/storage/7876/menurio-kookoovaya-xanthi-2022-11-05-14-07-56.jpeg",
+          "items": [
+            {
+              "menurioId": 9430,
+              "order": 1,
+              "name_el": "CHEESEBURGER",
+              "name_en": "CHEESEBURGER",
+              "desc_el": "Iceberg, μαγιονέζα, double american cheese, πίκλες αγγουριού & μπιφτέκι black Angus 180gr.",
+              "desc_en": "Iceberg, mayonnaise, double american cheese, pickles & black Angus burger 180gr.",
+              "price": "8,90",
+              "image": null
+            },
+            {
+              "menurioId": 9434,
+              "order": 2,
+              "name_el": "TRUFFLE BACON BURGER",
+              "name_en": "TRUFFLE BACON BURGER",
+              "desc_el": "Truffle mayo, iceberg, ντομάτα, διπλό bacon, American cheese & μπιφτέκι black Angus 180gr.",
+              "desc_en": "Truffle mayo, iceberg, tomato, double bacon, American cheese & black Angus burger 180gr.",
+              "price": "9,50",
+              "image": null
+            },
+            {
+              "menurioId": 9435,
+              "order": 3,
+              "name_el": "KOOKOOVAYA BURGER",
+              "name_en": "KOOKOOVAYA BURGER",
+              "desc_el": "Truffle mayo, Chèvre, μανιτάρια σοτέ, καραμελωμένα κρεμμύδια & μπιφτέκι black Angus 180gr.",
+              "desc_en": "Truffle Mayo, chevre cheese, sauteed mushrooms, caramelized onions & black Angus burger 180gr.",
+              "price": "9,90",
+              "image": null
+            },
+            {
+              "menurioId": 9438,
+              "order": 4,
+              "name_el": "BBQ BURGER",
+              "name_en": "BBQ BURGER",
+              "desc_el": "Iceberg, μαγιονέζα, bbq sauce, onion rings, cheddar bacon & μπιφτέκι black Angus 180gr.",
+              "desc_en": "Iceberg, mayonnaise, bbq sauce, onion rings, cheddar bacon & black Angus burger 180gr.",
+              "price": "9,50",
+              "image": null
+            },
+            {
+              "menurioId": 154374,
+              "order": 5,
+              "name_el": "SOUTHWEST",
+              "name_en": "SOUTHWEST",
+              "desc_el": "Chipotle mayo, γουακαμόλε, pico de gallo, american cheese & μπιφτέκι black Angus 180gr.",
+              "desc_en": "Chipotle mayo, guacamole, pico de gallo, american cheese & black Angus burger 180gr.",
+              "price": "9,50",
+              "image": null
+            },
+            {
+              "menurioId": 9432,
+              "order": 6,
+              "name_el": "BLUE",
+              "name_en": "BLUE",
+              "desc_el": "Blue cheese sauce, ρόκα, ντομάτα onion rings & μπιφτέκι black Angus 180gr.",
+              "desc_en": "Blue cheese sauce, rocket, tomato, onion rings & black Angus burger 180gr.",
+              "price": "9,50",
+              "image": null
+            },
+            {
+              "menurioId": 9436,
+              "order": 7,
+              "name_el": "CRUNCHY CHICKEN BURGER",
+              "name_en": "CRUNCHY CHICKEN BURGER",
+              "desc_el": "Τραγανό κοτόπουλο, iceberg, μαγιονέζα, cheddar sriracha glaze & χειροποίητη πίκλα αγγουριού.",
+              "desc_en": "Crispy chicken, iceberg, mayonnaise, cheddar sriracha glaze & handmade cucumber pickle.",
+              "price": "8,90",
+              "image": null
+            },
+            {
+              "menurioId": 232466,
+              "order": 8,
+              "name_el": "TRUFFLE CHICKEN",
+              "name_en": "TRUFFLE CHICKEN",
+              "desc_el": "Τραγανό κοτόπουλο, ρόκα, ντομάτα truffle mayo aioli, cheddar & bacon",
+              "desc_en": "Crispy chicken, arugula, tomato, truffle mayo aioli, cheddar & bacon",
+              "price": "9,50",
+              "image": null
+            },
+            {
+              "menurioId": 232468,
+              "order": 9,
+              "name_el": "CHICKEN MELT",
+              "name_en": "CHICKEN MELT",
+              "desc_el": "Τραγανό κοτόπουλο,Bbq sauce, bacon, cheddar, μαγιονέζα & μανιτάρια.",
+              "desc_en": "Crispy chicken, BBQ sauce, bacon, cheddar, mayonnaise & mushrooms.",
+              "price": "9,50",
+              "image": null
+            },
+            {
+              "menurioId": 232467,
+              "order": 10,
+              "name_el": "BUFFALO BLUE",
+              "name_en": "BUFFALO BLUE",
+              "desc_el": "Τραγανό κοτόπουλο blue cheese mayo, buffalo hot sauce, ντομάτα & iceberg",
+              "desc_en": "Crispy chicken blue cheese mayo, buffalo hot sauce, tomato & iceberg.",
+              "price": "",
+              "image": null
+            }
+          ]
+        },
+        {
+          "menurioId": 18223,
+          "order": 7,
+          "name_el": "PIZZA CONTEMPORANEA",
+          "name_en": "PIZZA CONTEMPORANEA",
+          "desc_el": "H pizza στο Kookoovaya Urban Gastronomy ωριμάζει για 48 ώρες & ψήνεται σε θερμοκρασία περίπου 450 βαθμών με μέγιστο χρόνο τα 90 δευτερόλεπτα. Ο συνδυασμός αυτός δημιουργεί μια εξαιρετικά αφράτη & εύπεπτη ζύμη,  όπου με μαζί με τα εξαιρετικής ποιότητας Π.Ο.Π προϊόντα δημιουργεί ένα μοναδικό γευστικό αποτέλεσμα που περιμένει να ανακαλύψετε.",
+          "desc_en": "The pizza at Kookoovaya Urban Gastronomy is aged for 48 hours & baked at a temperature of approximately 450 degrees with a maximum time of 90 seconds. This combination creates an extremely fluffy & easily digestible dough, which together with the excellent quality P.O.D. products creates a unique tasty result that is waiting for you to discover.",
+          "image": "https://app.menurio.com/storage/32334/menurio-kookoovaya-xanthi-2025-02-27-15-17-20.jpeg",
+          "items": [
+            {
+              "menurioId": 59043,
+              "order": 1,
+              "name_el": "MARGHERITA",
+              "name_en": "MARGHERITA",
+              "desc_el": "Σάλτσα ντομάτας San Marzano, mozzarella Fior di Latte, βασιλικό & έξτρα παρθένο ελαιόλαδο",
+              "desc_en": "San Marzano tomato sauce, Fior di Latte mozzarella, basil & extra virgin olive oil.",
+              "price": "11,50",
+              "image": null
+            },
+            {
+              "menurioId": 31831,
+              "order": 2,
+              "name_el": "PEPPERONI",
+              "name_en": "PEPPERONI",
+              "desc_el": "Σάλτσα ντομάτας San Marzano, mozzarella Fior di Latte & pepperoni piccante",
+              "desc_en": "San Marzano tomato sauce, Fior di Latte mozzarella & spicy pepperoni.",
+              "price": "12,50",
+              "image": null
+            },
+            {
+              "menurioId": 38726,
+              "order": 3,
+              "name_el": "FRESCA",
+              "name_en": "FRESCA",
+              "desc_el": "Σάλτσα ντομάτας San Marzano, mozzarella fior di Latte prosciutto di Parma, ρόκα & ντοματίνια.",
+              "desc_en": "San Marzano tomato sauce, fior di Latte mozzarella, prosciutto di Parma, arugula & cherry tomatoes.",
+              "price": "13,50",
+              "image": null
+            },
+            {
+              "menurioId": 165520,
+              "order": 4,
+              "name_el": "STRACCIATELLA",
+              "name_en": "STRACCIATELLA",
+              "desc_el": "Κρέμα πεκορίνο, mozzarella fior di Latte, stracciatella, pancetta affumicata & σχοινόπρασο.",
+              "desc_en": "Pecorino cream, fior di Latte mozzarella, stracciatella, smoked pancetta & chives.",
+              "price": "14,50",
+              "image": null
+            },
+            {
+              "menurioId": 18225,
+              "order": 5,
+              "name_el": "GUANCIALE",
+              "name_en": "GUANCIALE",
+              "desc_el": "Κρέμα 5 τυριών, mozzarella fior di Latte guanciale, gorgonzola & σχοινόπρασο.",
+              "desc_en": "5 cheese cream, mozzarella fior di Latte guanciale, gorgonzola & chives.",
+              "price": "14,50",
+              "image": null
+            },
+            {
+              "menurioId": 165517,
+              "order": 6,
+              "name_el": "SHORT RIBS",
+              "name_en": "SHORT RIBS",
+              "desc_el": "Σάλτσα ντομάτας San Marzano, mozzarella fior di Latte μοσχάρι ραγού, chips πατάτας & truffle mayo.",
+              "desc_en": "San Marzano tomato sauce, fior di Latte mozzarella, beef ragout, potato chips & truffle mayo.",
+              "price": "14,90",
+              "image": null
+            },
+            {
+              "menurioId": 154375,
+              "order": 7,
+              "name_el": "TARTUFATA",
+              "name_en": "TARTUFATA",
+              "desc_el": "Κρέμα λευκής τρούφας, mozzarella Fior di Latte, μανιτάρια πορτομπέλο & έξτρα παρθένο ελαιόλαδο",
+              "desc_en": "White truffle cream, Fior di Latte mozzarella, portobello mushrooms & extra virgin olive oil.",
+              "price": "13,50",
+              "image": null
+            },
+            {
+              "menurioId": 165522,
+              "order": 8,
+              "name_el": "PABLO HONEY",
+              "name_en": "PABLO HONEY",
+              "desc_el": "Σάλτσα ντομάτας San Marzano, mozzarella fior di Latte, pepperoni piccante, τριμμένη φέτα & hot honey.",
+              "desc_en": "San Marzano tomato sauce, fior di Latte mozzarella, spicy pepperoni, grated feta cheese & hot honey.",
+              "price": "14,50",
+              "image": null
+            },
+            {
+              "menurioId": 165523,
+              "order": 9,
+              "name_el": "ROMANA",
+              "name_en": "ROMANA",
+              "desc_el": "Κρέμα πεκορίνο, mozzarella fior di Latte πατάτα, φρέσκο λουκάνικο & φρέσκια ρίγανη.",
+              "desc_en": "Pecorino cream, mozzarella fior di Latte potato, fresh sausage & fresh oregano.",
+              "price": "13,50",
+              "image": null
+            },
+            {
+              "menurioId": 165521,
+              "order": 10,
+              "name_el": "PISTACHIO",
+              "name_en": "PISTACHIO",
+              "desc_el": "Κρέμα φυστικιού, mozzarella fior di Latte stracciatella, mortadella di Bologna & τριμμένο φυστίκι.",
+              "desc_en": "Peanut cream, mozzarella fior di Latte stracciatella, mortadella di Bologna & grated peanut.",
+              "price": "14,90",
+              "image": null
+            },
+            {
+              "menurioId": 165518,
+              "order": 11,
+              "name_el": "POLLO FRITTO",
+              "name_en": "POLLO FRITTO",
+              "desc_el": "Κρέμα 5 τυριά, mozzarella Fior di Latte, κοτομπουκιές,μπέικον, μανιτάρια πορτομπέλο & Truffle mayo",
+              "desc_en": "5 cheese cream, Fior di Latte mozzarella, chicken nuggets, bacon powder, corn & Caesar's sauce.",
+              "price": "13,90",
+              "image": null
+            }
+          ]
+        },
+        {
+          "menurioId": 9449,
+          "order": 8,
+          "name_el": "DESSERTS",
+          "name_en": "DESSERTS",
+          "desc_el": "",
+          "desc_en": "",
+          "image": "https://app.menurio.com/storage/32335/menurio-kookoovaya-xanthi-2025-02-27-15-20-28.jpeg",
+          "items": [
+            {
+              "menurioId": 9450,
+              "order": 1,
+              "name_el": "CHEESECAKE FERRERO",
+              "name_en": "CHOCOLATE BROWNIES TRILOGY",
+              "desc_el": "Ferrero ganache, τριμμένα φουντούκια & Nutella",
+              "desc_en": "Chocolate brownies with pistachio, chocolate & peanut butter mousse combined with white chocolate discs.",
+              "price": "7,50",
+              "image": null
+            },
+            {
+              "menurioId": 9453,
+              "order": 3,
+              "name_el": "MILLEFEUILLE DUBAI",
+              "name_en": "FERRERO CHOCOLATE SPHERE",
+              "desc_el": "Μουσελίν φυστικιού, καραμελωμένα φύλλα, Nutella & τριμμένο φυστίκι",
+              "desc_en": "Milk chocolate sphere with Ferrero mousse & hazelnut ice cream on a caramel waffle. Served with hot chocolate sauce.",
+              "price": "8,50",
+              "image": null
+            },
+            {
+              "menurioId": 9452,
+              "order": 4,
+              "name_el": "CREMA CATALANA",
+              "name_en": "CREME BRUILLE",
+              "desc_el": "Αρώματα εσπεριδοειδών & ψητά ροδάκινα",
+              "desc_en": "With pistachio mousse and sesame seed Florentine.",
+              "price": "6,50",
+              "image": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menurioId": 10949,
+      "order": 4,
+      "name_el": "DESSERTS",
+      "name_en": "DESSERTS",
+      "desc_el": "",
+      "desc_en": "",
+      "image": "https://app.menurio.com/storage/43163/menurio-kookoovaya-xanthi-2025-08-08-13-36-27.jpeg",
+      "categories": [
+        {
+          "menurioId": 233831,
+          "order": 0,
+          "name_el": "Γλυκά",
+          "name_en": "Γλυκά",
+          "desc_el": "",
+          "desc_en": "",
+          "image": null,
+          "items": [
+            {
+              "menurioId": 233832,
+              "order": 1,
+              "name_el": "CHEESECAKE FERRERO",
+              "name_en": "CHEESECAKE FERRERO",
+              "desc_el": "Ferrero ganache, τριμμένα φουντούκια & Nutella",
+              "desc_en": "Ferrero ganache, τριμμένα φουντούκια & Nutella",
+              "price": "7,50",
+              "image": null
+            },
+            {
+              "menurioId": 233834,
+              "order": 2,
+              "name_el": "MILLEFEUILLE DUBAI",
+              "name_en": "MILLEFEUILLE DUBAI",
+              "desc_el": "Μουσελίν φυστικιού, καραμελωμένα φύλλα, Nutella & τριμμένο φυστίκι",
+              "desc_en": "Μουσελίν φυστικιού, καραμελωμένα φύλλα, Nutella & τριμμένο φυστίκι",
+              "price": "8,50",
+              "image": null
+            },
+            {
+              "menurioId": 233833,
+              "order": 3,
+              "name_el": "CREMA CATALANA",
+              "name_en": "CREMA CATALANA",
+              "desc_el": "Αρώματα εσπεριδοειδών & ψητά ροδάκινα",
+              "desc_en": "Αρώματα εσπεριδοειδών & ψητά ροδάκινα",
+              "price": "6,50",
+              "image": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menurioId": 447,
+      "order": 6,
+      "name_el": "WINE LIST",
+      "name_en": "WINE LIST",
+      "desc_el": "",
+      "desc_en": "",
+      "image": "https://app.menurio.com/storage/6126/menurio-kookoovaya-xanthi-2022-06-25-13-50-02.jpeg",
+      "categories": [
+        {
+          "menurioId": 9633,
+          "order": 1,
+          "name_el": "ΡΟΖΕ",
+          "name_en": "ROSE WINES",
+          "desc_el": "",
+          "desc_en": "",
+          "image": "https://app.menurio.com/storage/7879/menurio-kookoovaya-xanthi-2022-11-05-14-19-29.jpeg",
+          "items": [
+            {
+              "menurioId": 18467,
+              "order": 1,
+              "name_el": "ΚΤΗΜΑ ΒΟΥΡΒΟΥΚΕΛΗ",
+              "name_en": "VOURVOUKELI ESTATE",
+              "desc_el": "ΑΒΔΗΡΟΣ ROSE [ΠΑΜΙΔΙ, SYRAH]",
+              "desc_en": "AVDIROS ROZE [PAMIDI, SYRAH]",
+              "price": "",
+              "image": "https://app.menurio.com/storage/3048/menurio-kookoovaya-xanthi-2021-11-12-00-42-21.jpg"
+            },
+            {
+              "menurioId": 9636,
+              "order": 2,
+              "name_el": "ΚΤΗΜΑ COSTA LAZARIDI",
+              "name_en": "COSTA LAZARIDI ESTATE",
+              "desc_el": "DOMAINE MERLOT [MERLOT, ΑΓΙΩΡΓΙΤΙΚΟ, GRENACHE]",
+              "desc_en": "DOMAINE MERLOT ROSE [MERLOT, AGIORGITIKO, GRENACH]",
+              "price": "",
+              "image": "https://app.menurio.com/storage/3050/menurio-kookoovaya-xanthi-2021-11-12-00-43-46.jpg"
+            },
+            {
+              "menurioId": 9641,
+              "order": 3,
+              "name_el": "CHATEAU MIRAVAL",
+              "name_en": "CHATEAU MIRAVAL",
+              "desc_el": "MIRAVAL 375ML",
+              "desc_en": "STUDIO BY MIRAVAL [CINSAULT, GRENACHE ROUGE, ROLLE, TIBOUREN]",
+              "price": "",
+              "image": "https://app.menurio.com/storage/43766/menurio-kookoovaya-xanthi-2025-09-10-14-39-54.jpeg"
+            },
+            {
+              "menurioId": 9634,
+              "order": 4,
+              "name_el": "LA TOUR MELAS",
+              "name_en": "VOURVOUKELI ESTATE",
+              "desc_el": "NAUTILUS",
+              "desc_en": "PAMIDI ROSE [PAMIDI]",
+              "price": "",
+              "image": "https://app.menurio.com/storage/40671/menurio-kookoovaya-xanthi-2025-06-30-15-47-41.jpeg"
+            },
+            {
+              "menurioId": 38717,
+              "order": 5,
+              "name_el": "ΚΤΗΜΑ COSTA LAZARIDI",
+              "name_en": "COSTA LAZARIDI ESTATE",
+              "desc_el": "AMETHYSTOS ROSE [CABERNET SAUVIGNON, MERLOT]",
+              "desc_en": "AMETHYSTOS ROSE [CABERNET SAUVIGNON, MERLOT]",
+              "price": "",
+              "image": "https://app.menurio.com/storage/43767/menurio-kookoovaya-xanthi-2025-09-10-14-41-05.jpeg"
+            },
+            {
+              "menurioId": 58994,
+              "order": 6,
+              "name_el": "ΚΤΗΜΑ ΘΥΜΙΟΠΟΥΛΟΣ",
+              "name_en": "THYMIOPOULOS ESTATE",
+              "desc_el": "ROSE DE XINOMAVRO [XINOMAVRO]",
+              "desc_en": "ROSE DE XINOMAVRO [XINOMAVRO]",
+              "price": "",
+              "image": "https://app.menurio.com/storage/30914/menurio-kookoovaya-xanthi-2024-12-05-15-02-40.jpeg"
+            },
+            {
+              "menurioId": 58969,
+              "order": 7,
+              "name_el": "ΚΤΗΜΑ  ΠΑΥΛΙΔΗ",
+              "name_en": "PAVLIDI ESTATE",
+              "desc_el": "ALMA [ΑΓΙΩΡΓΙΤΙΚΟ, SYRAH]",
+              "desc_en": "ALMA ROSE [AGIORGITIKO, SYRAH]",
+              "price": "",
+              "image": "https://app.menurio.com/storage/14868/menurio-kookoovaya-xanthi-2023-06-12-22-45-21.jpeg"
+            },
+            {
+              "menurioId": 9638,
+              "order": 8,
+              "name_el": "LA TOUR MELAS",
+              "name_en": "LA TOUR MELAS",
+              "desc_el": "IDYLLE D' ACHINOS [GRENACHE, SYRAH, ΑΓΙΩΡΓΙΤΙΚΟ]",
+              "desc_en": "IDYLLE D' ACHINOS [GRENACHE, SYRAH, AGIORGITIKO]",
+              "price": "",
+              "image": "https://app.menurio.com/storage/3051/menurio-kookoovaya-xanthi-2021-11-12-00-44-30.jpg"
+            }
+          ]
+        },
+        {
+          "menurioId": 9642,
+          "order": 2,
+          "name_el": "ΛΕΥΚΑ",
+          "name_en": "WHITE WINES",
+          "desc_el": "",
+          "desc_en": "",
+          "image": "https://app.menurio.com/storage/7880/menurio-kookoovaya-xanthi-2022-11-05-14-20-27.jpeg",
+          "items": [
+            {
+              "menurioId": 58998,
+              "order": 1,
+              "name_el": "ΚΤΗΜΑ ΒΟΥΡΒΟΥΚΕΛΗ",
+              "name_en": "VOURVOUKELI ESTATE",
+              "desc_el": "ΑΒΔΗΡΟΣ [ΑΣΥΡΤΙΚΟ, ΡΟΔΙΤΗΣ]",
+              "desc_en": "AVDIROS WHITE [ASYRTIKO, PODITIS]",
+              "price": "",
+              "image": "https://app.menurio.com/storage/14871/menurio-kookoovaya-xanthi-2023-06-12-22-49-27.jpeg"
+            },
+            {
+              "menurioId": 77620,
+              "order": 2,
+              "name_el": "ΚΤΗΜΑ COSTA LAZARIDI",
+              "name_en": "LANDIDI ESTATE",
+              "desc_el": "ΜΑΛΑΓΟΥΖΙΑ",
+              "desc_en": "ERGO [SAUVIGNON BLANC]",
+              "price": "",
+              "image": "https://app.menurio.com/storage/43328/menurio-kookoovaya-xanthi-2025-08-20-10-59-57.jpeg"
+            },
+            {
+              "menurioId": 77621,
+              "order": 3,
+              "name_el": "ΚΤΗΜΑ ΠΑΥΛΙΔΗ",
+              "name_en": "PAVLIDI ESTATE",
+              "desc_el": "THEMA [SAUVIGNON BLANC, ΑΣΥΡΤΙΚΟ]",
+              "desc_en": "THEMA [SAUVIGNON BLANC, ASYRTIKO]",
+              "price": "",
+              "image": "https://app.menurio.com/storage/19012/menurio-kookoovaya-xanthi-2023-12-24-19-03-45.jpeg"
+            },
+            {
+              "menurioId": 9648,
+              "order": 4,
+              "name_el": "ΚΤΗΜΑ ΒΟΥΡΒΟΥΚΕΛΗ",
+              "name_en": "VOURVOUKELI ESTATE",
+              "desc_el": "ΜΑΛΑΓΟΥΖΙΑ [ΜΑΛΑΓΟΥΖΙΑ]",
+              "desc_en": "MALAGOUZIA [MALAGOUZIA]",
+              "price": "",
+              "image": "https://app.menurio.com/storage/14872/menurio-kookoovaya-xanthi-2023-06-12-22-50-18.jpeg"
+            },
+            {
+              "menurioId": 38720,
+              "order": 5,
+              "name_el": "ΚΤΗΜΑ ΑΒΑΝΤΙΣ",
+              "name_en": "AVANDIS ESTATE",
+              "desc_el": "LENGA [GEWÜRZTRAMINER]",
+              "desc_en": "LENGA [GEWÜRZTRAMINER]",
+              "price": "",
+              "image": "https://app.menurio.com/storage/7900/menurio-kookoovaya-xanthi-2022-11-05-15-03-53.jpeg"
+            },
+            {
+              "menurioId": 38721,
+              "order": 6,
+              "name_el": "ΚΤΗΜΑ ΚΥΡ ΓΙΑΝΝΗ",
+              "name_en": "KYR YANNI ESTATE",
+              "desc_el": "ΣΑΜΑΡΟΠΕΤΡΑ [SAUVIGNON BLANC]",
+              "desc_en": "SAMAROPETRA [SAUVIGNON BLANC]",
+              "price": "",
+              "image": "https://app.menurio.com/storage/7899/menurio-kookoovaya-xanthi-2022-11-05-15-01-49.jpeg"
+            },
+            {
+              "menurioId": 38719,
+              "order": 7,
+              "name_el": "ΚΤΗΜΑ COSTA LAZARIDI",
+              "name_en": "COSTA LAZARIDI ESTATE",
+              "desc_el": "ΑΜΕΘΥΣΤΟΣ [SAUVIGNON BLANC]",
+              "desc_en": "AMETHYSTOS [SAUVIGNON BLANC]",
+              "price": "",
+              "image": "https://app.menurio.com/storage/43768/menurio-kookoovaya-xanthi-2025-09-10-14-41-38.jpeg"
+            },
+            {
+              "menurioId": 18471,
+              "order": 8,
+              "name_el": "ΚΤΗΜΑ ΤΣΕΛΕΠΟΣ",
+              "name_en": "TSELEPOS ESTATE",
+              "desc_el": "ΜΑΡΜΑΡΙΑΣ [CHARDONNAY]",
+              "desc_en": "MARMARIAS [CHARDONNAY]",
+              "price": "",
+              "image": "https://app.menurio.com/storage/14874/menurio-kookoovaya-xanthi-2023-06-12-22-52-20.jpeg"
+            },
+            {
+              "menurioId": 9649,
+              "order": 9,
+              "name_el": "ΚΤΗΜΑ ΚΥΡ ΓΙΑΝΝΗ",
+              "name_en": "KYR YANNI ESTATE",
+              "desc_el": "ΠΑΛΠΟ [CHARDONNAY]",
+              "desc_en": "PALPO [CHARDONNAY]",
+              "price": "",
+              "image": "https://app.menurio.com/storage/30921/menurio-kookoovaya-xanthi-2024-12-06-02-27-32.jpeg"
+            },
+            {
+              "menurioId": 9644,
+              "order": 10,
+              "name_el": "ΚΤΗΜΑ ΓΕΡΟΒΑΣΙΛΕΙΟΥ",
+              "name_en": "GEROVASILIOU ESTATE",
+              "desc_el": "ΜΑΛΑΓΟΥΖΙΑ [ΜΑΛΑΓΟΥΖΙΑY]",
+              "desc_en": "MALAGUZIA [MALAGUZIA]",
+              "price": "",
+              "image": "https://app.menurio.com/storage/30920/menurio-kookoovaya-xanthi-2024-12-06-02-25-59.jpeg"
+            }
+          ]
+        },
+        {
+          "menurioId": 9656,
+          "order": 3,
+          "name_el": "ΕΡΥΘΡΑ",
+          "name_en": "RED WINES",
+          "desc_el": "",
+          "desc_en": "",
+          "image": "https://app.menurio.com/storage/7881/menurio-kookoovaya-xanthi-2022-11-05-14-21-27.jpeg",
+          "items": [
+            {
+              "menurioId": 31811,
+              "order": 1,
+              "name_el": "ΚΤΗΜΑ ΜΠΑΡΑΦΑΚΑ",
+              "name_en": "MPARAFAKA ESTATE",
+              "desc_el": "ΝΕΡΑΙΔΕΣ ΗΜΙΓΛΥΚΟ ΝΕΜΕΑΣ [ΑΓΙΩΡΓΙΤΙΚΟ]",
+              "desc_en": "FAIRIES SEMI-SWEET FROM NEMEA [AGIORGITIKO]",
+              "price": "",
+              "image": "https://app.menurio.com/storage/19026/menurio-kookoovaya-xanthi-2023-12-27-01-58-03.jpeg"
+            },
+            {
+              "menurioId": 38725,
+              "order": 2,
+              "name_el": "ΚΤΗΜΑ ΒΟΥΡΒΟΥΚΕΛΗ",
+              "name_en": "VOURVOUKELI ESTATE",
+              "desc_el": "ΛΗΜΝΙΟ [ΛΗΜΝΙΟ]",
+              "desc_en": "LIMNIO [LIMNIO]",
+              "price": "",
+              "image": "https://app.menurio.com/storage/19031/menurio-kookoovaya-xanthi-2023-12-27-03-36-14.jpeg"
+            },
+            {
+              "menurioId": 77623,
+              "order": 3,
+              "name_el": "ΚΤΗΜΑ ΠΑΥΛΙΔΗ",
+              "name_en": "PAVLIDI ESTATE",
+              "desc_el": "ΘΕΜΑ ΕΡΥΘΡΟ [SYRAH, ΑΓΙΩΡΓΙΤΙΚΟ]",
+              "desc_en": "THEMA [SYRAH, AGIORGITIKO]",
+              "price": "",
+              "image": "https://app.menurio.com/storage/19029/menurio-kookoovaya-xanthi-2023-12-27-03-34-17.jpeg"
+            },
+            {
+              "menurioId": 18470,
+              "order": 4,
+              "name_el": "ΚΤΗΜΑ ΑΝΑΤΟΛΙΚΟΣ ΑΜΠΕΛΩΝΑΣ",
+              "name_en": "ANATOLIKOS VINEYARDS",
+              "desc_el": "MV [CABERNET SAUVIGNON, MERLOT, ΜΑΥΡΟΎΔΙ]",
+              "desc_en": "MV [CABERNET SAUVIGNON, MERLOT, MAVROUDI]",
+              "price": "",
+              "image": "https://app.menurio.com/storage/7883/menurio-kookoovaya-xanthi-2022-11-05-14-30-33.jpeg"
+            },
+            {
+              "menurioId": 77624,
+              "order": 5,
+              "name_el": "ΚΤΗΜΑ ΝΤΟΥΓΚΟΣ",
+              "name_en": "DOUGOS ESTATE",
+              "desc_el": "ΡΑΨΑΝΗ [ΞΙΝΟΜΑΥΡΟ, ΚΡΑΣΑΤΟ]",
+              "desc_en": "RAPSANI [XINOMAVRO, KRASATO]",
+              "price": "",
+              "image": "https://app.menurio.com/storage/19030/menurio-kookoovaya-xanthi-2023-12-27-03-35-02.jpeg"
+            },
+            {
+              "menurioId": 9659,
+              "order": 6,
+              "name_el": "ΚΤΗΜΑ ΑΒΑΝΤΙΣ",
+              "name_en": "AVANTIS ESTATE",
+              "desc_el": "SYRAH [SYRAH]",
+              "desc_en": "SYRAH [SYRAH]",
+              "price": "",
+              "image": "https://app.menurio.com/storage/3073/menurio-kookoovaya-xanthi-2021-11-12-01-14-38.jpg"
+            },
+            {
+              "menurioId": 77625,
+              "order": 7,
+              "name_el": "ΚΤΗΜΑ COSTA LAZARIDI",
+              "name_en": "COSTA LAZARIDI ESTATE",
+              "desc_el": "ΑΜΕΘΥΣΤΟΣ ΕΡΥΘΡΟΣ [CABERNET SAUVIGNON, MERLOT]",
+              "desc_en": "AMETHYSTOS [CABERNET SAUVIGNON, MERLOT]",
+              "price": "",
+              "image": "https://app.menurio.com/storage/43769/menurio-kookoovaya-xanthi-2025-09-10-14-42-28.jpeg"
+            },
+            {
+              "menurioId": 38731,
+              "order": 8,
+              "name_el": "ΚΤΗΜΑ ΔΟΥΛΟΥΦΑΚΗ",
+              "name_en": "DOULOUFAKI ESTATE",
+              "desc_el": "ΑΣΠΡΟΣ ΛΑΓΟΣ [CABERNET SAUVIGNON]",
+              "desc_en": "WHITE RABBIT [CABERNET SAUVIGNON]",
+              "price": "",
+              "image": "https://app.menurio.com/storage/19016/menurio-kookoovaya-xanthi-2023-12-25-14-12-29.jpeg"
+            },
+            {
+              "menurioId": 38732,
+              "order": 9,
+              "name_el": "ΚΤΗΜΑ ΘΥΜΙΟΠΟΥΛΟΥ",
+              "name_en": "THIMIOPOULOS ESTATE",
+              "desc_el": "ΓΗ & ΟΥΡΑΝΟΣ [ΞΙΝΟΜΑΥΡΟ]",
+              "desc_en": "EARTH & SKY [XINOMAVRO]",
+              "price": "",
+              "image": "https://app.menurio.com/storage/19015/menurio-kookoovaya-xanthi-2023-12-25-14-10-47.jpeg"
+            },
+            {
+              "menurioId": 9662,
+              "order": 13,
+              "name_el": "ΚΤΗΜΑ ΒΙΒΛΙΑ ΧΩΡΑ",
+              "name_en": "VIVLIA CHORA ESTATE",
+              "desc_el": "ΕΡΥΘΡΟ [CABERNET SAUVIGNON, MERLOT, ΑΓΙΩΡΓΙΤΙΚΟ]",
+              "desc_en": "RED [CABERNET SAUVIGNON, MERLOT]",
+              "price": "",
+              "image": "https://app.menurio.com/storage/3076/menurio-kookoovaya-xanthi-2021-11-12-01-22-14.jpg"
+            },
+            {
+              "menurioId": 9661,
+              "order": 14,
+              "name_el": "OENOPS WINES",
+              "name_en": "OENOPS WINES",
+              "desc_el": "ΛΗΜΝΙΩΝΑ  [ΛΗΜΝΙΩΝΑ ]",
+              "desc_en": "LIMNIONA  [LIMNIONA ]",
+              "price": "",
+              "image": "https://app.menurio.com/storage/30925/menurio-kookoovaya-xanthi-2024-12-06-02-34-17.jpeg"
+            },
+            {
+              "menurioId": 38733,
+              "order": 15,
+              "name_el": "ΚΤΗΜΑ ΒΟΓΙΑΤΖΗ",
+              "name_en": "VOGIATZI ESTATE",
+              "desc_el": "ΤΖΑΠΟΥΡΝΑΚΟΣ [ΤΖΑΠΟΥΡΝΑΚΟΣ, CABERNET FRANC]",
+              "desc_en": "TZAPOURNAKOS [TZAPOURNAKOS, CABERNET FRANC]",
+              "price": "",
+              "image": "https://app.menurio.com/storage/7891/menurio-kookoovaya-xanthi-2022-11-05-14-51-49.jpeg"
+            },
+            {
+              "menurioId": 9664,
+              "order": 17,
+              "name_el": "KTHMA COSTA LAZARIDI",
+              "name_en": "COSTA LAZARIDI ESTATE",
+              "desc_el": "ΟΙΝΟΤΡΙΑ ΓΗ [CABERNET SAUVIGNON, ΑΓΙΩΡΓΙΤΙΚΟ]",
+              "desc_en": "OINOTRIA GI [CABERNET SAUVIGNON, AGIORGITIKO]",
+              "price": "",
+              "image": "https://app.menurio.com/storage/3079/menurio-kookoovaya-xanthi-2021-11-12-01-25-51.jpg"
+            },
+            {
+              "menurioId": 38735,
+              "order": 18,
+              "name_el": "ΚΤΗΜΑ ΣΚΟΥΡΑ",
+              "name_en": "SKOURA ESTATE",
+              "desc_el": "ΜΕΓΑΣ ΟΙΝΟΣ [CABERNET SAUVIGNON, ΑΓΙΩΡΓΙΤΙΚΟ]",
+              "desc_en": "MEGAS WINE [CABERNET SAUVIGNON, AGIORGITIKO]",
+              "price": "",
+              "image": "https://app.menurio.com/storage/30926/menurio-kookoovaya-xanthi-2024-12-06-02-35-27.jpeg"
+            },
+            {
+              "menurioId": 38737,
+              "order": 19,
+              "name_el": "ΚΤΗΜΑ ΚΑΤΣΑΡΟΥ",
+              "name_en": "KATSAROU ESTATE",
+              "desc_el": "ΕΡΥΘΡΟΣ [CABERNET SAUVIGNON, MERLOT]",
+              "desc_en": "RED [CABERNET SAUVIGNON, MERLOT]",
+              "price": "",
+              "image": "https://app.menurio.com/storage/30927/menurio-kookoovaya-xanthi-2024-12-06-02-37-28.jpeg"
+            },
+            {
+              "menurioId": 18242,
+              "order": 20,
+              "name_el": "ΚΤΗΜΑ ΤΣΕΛΕΠΟΥ",
+              "name_en": "TSELEPOS ESTATE",
+              "desc_el": "ΑΥΛΟΤΟΠΙ [CABERNET SAUVIGNON]",
+              "desc_en": "AVLOTOPI [CABERNET SAUVIGNON]",
+              "price": "",
+              "image": "https://app.menurio.com/storage/3084/menurio-kookoovaya-xanthi-2021-11-12-01-31-27.jpg"
+            },
+            {
+              "menurioId": 9667,
+              "order": 22,
+              "name_el": "ΚΤΗΜΑ ΤΣΕΛΕΠΟΥ",
+              "name_en": "TSELEPOU ESTATE",
+              "desc_el": "ΚΟΚΚΙΝΟΜΥΛΟΣ [MERLOT]",
+              "desc_en": "KOKKINOMYLOS [MERLOT]",
+              "price": "",
+              "image": "https://app.menurio.com/storage/3087/menurio-kookoovaya-xanthi-2021-11-12-01-33-46.jpg"
+            },
+            {
+              "menurioId": 9675,
+              "order": 23,
+              "name_el": "ΚΤΗΜΑ ΜΟΣΧΟΠΟΛΙΣ",
+              "name_en": "ALFA ESTATE",
+              "desc_el": "18 [SYRAH, ΜΑΥΡΟΤΡΑΓΑΝΟ]",
+              "desc_en": "SMX [SYRAH, MERLOT, ΞΙΝΟΜΑΥΡΟ]",
+              "price": "",
+              "image": "https://app.menurio.com/storage/43770/menurio-kookoovaya-xanthi-2025-09-10-14-44-12.jpeg"
+            },
+            {
+              "menurioId": 9673,
+              "order": 24,
+              "name_el": "ΚΤΗΜΑ ΠΙΕΡΙΑ ΕΡΑΤΕΙΝΗ",
+              "name_en": "PIERIA ERATEINI ESTATE",
+              "desc_el": "ΓΥΜΝΟΣ ΒΑΣΙΛΙΑΣ [SYRAH]",
+              "desc_en": "KING'S NUDE [SYRAH]",
+              "price": "",
+              "image": "https://app.menurio.com/storage/3094/menurio-kookoovaya-xanthi-2021-11-12-01-41-09.jpg"
+            },
+            {
+              "menurioId": 9671,
+              "order": 25,
+              "name_el": "ΚΤΗΜΑ ΒΙΒΛΙΑ ΧΩΡΑ",
+              "name_en": "VIVLIA CHORA ESTATE",
+              "desc_el": "ΟΒΗΛΟΣ ΕΡΥΘΡΟ [CABERNET SAUVIGNON]",
+              "desc_en": "OVILOS RED [CABERNET SAUVIGNON]",
+              "price": "",
+              "image": "https://app.menurio.com/storage/3092/menurio-kookoovaya-xanthi-2021-11-12-01-39-11.jpg"
+            }
+          ]
+        },
+        {
+          "menurioId": 9677,
+          "order": 4,
+          "name_el": "SPARKLING WINES",
+          "name_en": "SPARKLING WINES",
+          "desc_el": "",
+          "desc_en": "",
+          "image": "https://app.menurio.com/storage/7897/menurio-kookoovaya-xanthi-2022-11-05-14-59-24.jpeg",
+          "items": [
+            {
+              "menurioId": 9678,
+              "order": 0,
+              "name_el": "ΤΣΙΛΙΛΗ - BIANCONERO ΛΕΥΚΟ/ΡΟΖΕ",
+              "name_en": "TSILILI ESTATE - BIANCONERO WHITE/ROSE",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "",
+              "image": "https://app.menurio.com/storage/3098/menurio-kookoovaya-xanthi-2021-11-12-01-47-38.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menurioId": 450,
+      "order": 7,
+      "name_el": "COCKTAILS",
+      "name_en": "COCKTAILS",
+      "desc_el": "",
+      "desc_en": "",
+      "image": "https://app.menurio.com/storage/7871/menurio-kookoovaya-xanthi-2022-11-05-14-00-25.jpeg",
+      "categories": [
+        {
+          "menurioId": 9538,
+          "order": 1,
+          "name_el": "KOOKOO's Classic Cocktails",
+          "name_en": "KOOKOO's Classic Cocktails",
+          "desc_el": "",
+          "desc_en": "",
+          "image": "https://app.menurio.com/storage/icons/115-cocktail-shaker.svg",
+          "items": [
+            {
+              "menurioId": 9540,
+              "order": 1,
+              "name_el": "Mojito Cubano",
+              "name_en": "Mojito Cubano",
+              "desc_el": "Rum/ Lime/ Cane Syrup/ Spearmint/ Bubbles",
+              "desc_en": "Rum/ Lime/ Cane Syrup/ Spearmint/ Bubbles",
+              "price": "",
+              "image": null
+            },
+            {
+              "menurioId": 18472,
+              "order": 2,
+              "name_el": "Daiquiri Cubano",
+              "name_en": "Daiquiri Cubano",
+              "desc_el": "Rum/ Cointreau/ Lime/ Cane Syrup",
+              "desc_en": "Rum/ Cointreau/ Lime/ Cane Syrup",
+              "price": "",
+              "image": null
+            },
+            {
+              "menurioId": 9541,
+              "order": 3,
+              "name_el": "Margarita Mexicana",
+              "name_en": "Margarita Mexicana",
+              "desc_el": "Tequila/ Cointreau/ Lime/ Agave Syrup",
+              "desc_en": "Tequila/ Cointreau/ Lime/ Agave Syrup",
+              "price": "",
+              "image": null
+            },
+            {
+              "menurioId": 9550,
+              "order": 4,
+              "name_el": "Mai Tai",
+              "name_en": "Mai Tai",
+              "desc_el": "Rum Blend/ Cointreau/ Amaretto/ Falernum/ Lime",
+              "desc_en": "Rum Blend/ Cointreau/ Amaretto/ Falernum/ Lime",
+              "price": "9,00",
+              "image": null
+            },
+            {
+              "menurioId": 31819,
+              "order": 5,
+              "name_el": "Zombie",
+              "name_en": "Zombie",
+              "desc_el": "Rum Blend/ Falernum/ Spices/ Orgeant/ Pineapple/ Lime",
+              "desc_en": "Rum Blend/ Falernum/ Spices/ Orgeant/ Pineapple/ Lime",
+              "price": "9,50",
+              "image": null
+            },
+            {
+              "menurioId": 9551,
+              "order": 6,
+              "name_el": "PornStar Martini",
+              "name_en": "PornStar Martini",
+              "desc_el": "Vodka/ Passion Fruit/ Vanilla, Lime",
+              "desc_en": "Vodka/ Passion Fruit/ Vanilla, Lime",
+              "price": "8,50",
+              "image": null
+            },
+            {
+              "menurioId": 31817,
+              "order": 7,
+              "name_el": "King Negroni",
+              "name_en": "King Negroni",
+              "desc_el": "Gin/ Vermouth Di Torino/ Campari",
+              "desc_en": "Gin/ Vermouth Di Torino/ Campari",
+              "price": "8,50",
+              "image": null
+            },
+            {
+              "menurioId": 9546,
+              "order": 8,
+              "name_el": "The Paloma",
+              "name_en": "The Paloma",
+              "desc_el": "Tequila/ Lime/ Agave Syrup/ Grapefruit Bubbles",
+              "desc_en": "Tequila/ Lime/ Agave Syrup/ Grapefruit Bubbles",
+              "price": "8,50",
+              "image": null
+            },
+            {
+              "menurioId": 9547,
+              "order": 9,
+              "name_el": "Aperol Spritz",
+              "name_en": "Aperol Spritz",
+              "desc_el": "Aperol/ White Sparkling Wine/ Bubbles",
+              "desc_en": "Aperol/ White Sparkling Wine/ Bubbles",
+              "price": "8,00",
+              "image": null
+            },
+            {
+              "menurioId": 136444,
+              "order": 11,
+              "name_el": "Caipiroska",
+              "name_en": "Caipiroska",
+              "desc_el": "Vodka/ Lime/ Cane Syrup",
+              "desc_en": "Vodka/ Lime/ Cane Syrup",
+              "price": "",
+              "image": null
+            },
+            {
+              "menurioId": 9543,
+              "order": 12,
+              "name_el": "Cuba Libre",
+              "name_en": "Cuba Libre",
+              "desc_el": "Rum Blend/ Lime/ Cola Bubbles",
+              "desc_en": "Rum Blend/ Lime/ Cola Bubbles",
+              "price": "8,00",
+              "image": null
+            },
+            {
+              "menurioId": 18477,
+              "order": 13,
+              "name_el": "Old Fashion",
+              "name_en": "Old Fashion",
+              "desc_el": "Bourbon/ Cane Syrup/ Bitters",
+              "desc_en": "Bourbon/ Cane Syrup/ Bitters",
+              "price": "8,00",
+              "image": null
+            },
+            {
+              "menurioId": 9544,
+              "order": 14,
+              "name_el": "Dry / Dirty Martini",
+              "name_en": "Dry / Dirty Martini",
+              "desc_el": "Gin/ Dry Vermouth",
+              "desc_en": "Gin/ Dry Vermouth",
+              "price": "8,00",
+              "image": null
+            }
+          ]
+        },
+        {
+          "menurioId": 9549,
+          "order": 2,
+          "name_el": "KOOKOO's  Signature Cocktails",
+          "name_en": "KOOKOO's  Signature Cocktails",
+          "desc_el": "",
+          "desc_en": "",
+          "image": "https://app.menurio.com/storage/icons/115-cocktail-shaker.svg",
+          "items": [
+            {
+              "menurioId": 9556,
+              "order": 1,
+              "name_el": "Walk on the Beach",
+              "name_en": "Walk on the Beach",
+              "desc_el": "Vodka/ Italicus/ Red Fruits/ Orange/ Cherry Bubbles",
+              "desc_en": "Vodka/ Italicus/ Red Fruits/ Orange/ Cherry Bubbles",
+              "price": "9,00",
+              "image": null
+            },
+            {
+              "menurioId": 18475,
+              "order": 2,
+              "name_el": "Purple Dawn",
+              "name_en": "Purple Dawn",
+              "desc_el": "Rum Blend/ Coconut/ Banana/ Lime/ Dragon Fruit",
+              "desc_en": "Rum Blend/ Coconut/ Banana/ Lime/ Dragon Fruit",
+              "price": "9,00",
+              "image": null
+            },
+            {
+              "menurioId": 9553,
+              "order": 3,
+              "name_el": "Viva la vida",
+              "name_en": "Viva la vida",
+              "desc_el": "Vodka/ Basil/ Ginger/ Watermellon",
+              "desc_en": "Vodka/ Basil/ Ginger/ Watermellon",
+              "price": "9,00",
+              "image": null
+            },
+            {
+              "menurioId": 18478,
+              "order": 4,
+              "name_el": "The Mona Lisa",
+              "name_en": "The Mona Lisa",
+              "desc_el": "Gin/ Melon/ Orgeant/ Lime",
+              "desc_en": "Gin/ Melon/ Orgeant/ Lime",
+              "price": "9,00",
+              "image": null
+            },
+            {
+              "menurioId": 18476,
+              "order": 5,
+              "name_el": "The Son of Man",
+              "name_en": "The Son of Man",
+              "desc_el": "Gin/ Cointreau/ Green Apple/ Cucumber/ Lime",
+              "desc_en": "Gin/ Cointreau/ Green Apple/ Cucumber/ Lime",
+              "price": "9,00",
+              "image": null
+            },
+            {
+              "menurioId": 18474,
+              "order": 6,
+              "name_el": "The Japanese Footbridge",
+              "name_en": "The Japanese Footbridge",
+              "desc_el": "Gin/ Spiced Cranberry/ Lychee/ Wild Strawberry/ Yuzu",
+              "desc_en": "Gin/ Spiced Cranberry/ Lychee/ Wild Strawberry/ Yuzu",
+              "price": "9,00",
+              "image": null
+            },
+            {
+              "menurioId": 9558,
+              "order": 7,
+              "name_el": "Second Story Sunlight",
+              "name_en": "Second Story Sunlight",
+              "desc_el": "Gin/ Aperol/ Peach/ Cherry Tomatoes/ Lemon Verbena/ Grapefruit Bubbles",
+              "desc_en": "Gin/ Aperol/ Peach/ Cherry Tomatoes/ Lemon Verbena/ Grapefruit Bubbles",
+              "price": "9,00",
+              "image": null
+            },
+            {
+              "menurioId": 18479,
+              "order": 8,
+              "name_el": "Summer Evening",
+              "name_en": "Summer Evening",
+              "desc_el": "Tequila/ Opurist/ Passion Fruit/ Carrot/ Mandarin",
+              "desc_en": "Tequila/ Opurist/ Passion Fruit/ Carrot/ Mandarin",
+              "price": "9,50",
+              "image": null
+            }
+          ]
+        },
+        {
+          "menurioId": 9562,
+          "order": 4,
+          "name_el": "Mocktails (No Alcohol)",
+          "name_en": "Mocktails (No Alcohol)",
+          "desc_el": "",
+          "desc_en": "",
+          "image": "https://app.menurio.com/storage/icons/022-alcohol-free.svg",
+          "items": [
+            {
+              "menurioId": 232447,
+              "order": 1,
+              "name_el": "Virgin Mojito",
+              "name_en": "Virgin Mojito",
+              "desc_el": "Rum/ Lime/ Cane Syrup/ Spearmint/ Bubbles",
+              "desc_en": "Rum/ Lime/ Cane Syrup/ Spearmint/ Bubbles",
+              "price": "",
+              "image": null
+            },
+            {
+              "menurioId": 18480,
+              "order": 2,
+              "name_el": "Italian Aperitivo 0%",
+              "name_en": "Italian Aperitivo 0%",
+              "desc_el": "Citruses/ Spices/ Botanicals/ Pink Grapefruit Bubbles",
+              "desc_en": "Citruses/ Spices/ Botanicals/ Pink Grapefruit Bubbles",
+              "price": "6,00",
+              "image": null
+            },
+            {
+              "menurioId": 9565,
+              "order": 3,
+              "name_el": "Poppy Field",
+              "name_en": "Poppy Field",
+              "desc_el": "Tanqueray 0%/ Non Alcoholic White Wine/ Citrus/ Wild Berries",
+              "desc_en": "Tanqueray 0%/ Non Alcoholic White Wine/ Citrus/ Wild Berries",
+              "price": "8,00",
+              "image": null
+            },
+            {
+              "menurioId": 9564,
+              "order": 4,
+              "name_el": "Rhyl Sands",
+              "name_en": "Rhyl Sands",
+              "desc_el": "Seedlip Grove 42/ Passion Fruit/ Cinammon/ Cardamom/ Ginger beer",
+              "desc_en": "Seedlip Grove 42/ Passion Fruit/ Cinammon/ Cardamom/ Ginger beer",
+              "price": "8,00",
+              "image": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menurioId": 448,
+      "order": 8,
+      "name_el": "BEERS",
+      "name_en": "BEERS",
+      "desc_el": "",
+      "desc_en": "",
+      "image": "https://app.menurio.com/storage/7875/menurio-kookoovaya-xanthi-2022-11-05-14-05-22.jpeg",
+      "categories": [
+        {
+          "menurioId": 9454,
+          "order": 0,
+          "name_el": "BEERS",
+          "name_en": "BEERS",
+          "desc_el": "",
+          "desc_en": "",
+          "image": null,
+          "items": [
+            {
+              "menurioId": 9455,
+              "order": 2,
+              "name_el": "ΑΛΦΑ",
+              "name_en": "MYTHOS",
+              "desc_el": "LAGER",
+              "desc_en": "LAGER",
+              "price": "4,00",
+              "image": "https://app.menurio.com/storage/32936/menurio-kookoovaya-xanthi-2025-03-15-14-02-40.jpeg"
+            },
+            {
+              "menurioId": 76615,
+              "order": 3,
+              "name_el": "NΥΜΦΗ",
+              "name_en": "SOMERSBY STRAWBERRY & LIME 0%",
+              "desc_el": "HOPPY LAGER",
+              "desc_en": "ALCOHOL FREE",
+              "price": "5,00",
+              "image": "https://app.menurio.com/storage/32937/menurio-kookoovaya-xanthi-2025-03-15-14-03-29.jpeg"
+            },
+            {
+              "menurioId": 9456,
+              "order": 4,
+              "name_el": "HEINEKEN",
+              "name_en": "GRIMBERGEN BLANCHE",
+              "desc_el": "PREMIUM LAGER",
+              "desc_en": "BELGIAN ABBEY",
+              "price": "5,00",
+              "image": "https://app.menurio.com/storage/32939/menurio-kookoovaya-xanthi-2025-03-15-14-05-12.jpeg"
+            },
+            {
+              "menurioId": 9458,
+              "order": 5,
+              "name_el": "FISCHER",
+              "name_en": "KAISER",
+              "desc_el": "PREMIUM PILSNER",
+              "desc_en": "PILSNER",
+              "price": "5,00",
+              "image": "https://app.menurio.com/storage/32942/menurio-kookoovaya-xanthi-2025-03-15-14-07-14.jpeg"
+            },
+            {
+              "menurioId": 9459,
+              "order": 6,
+              "name_el": "PAULANER 500ml",
+              "name_en": "SCHNEIDER 500ml",
+              "desc_el": "WEISS",
+              "desc_en": "WEISS",
+              "price": "6,00",
+              "image": "https://app.menurio.com/storage/32943/menurio-kookoovaya-xanthi-2025-03-15-14-08-33.jpeg"
+            },
+            {
+              "menurioId": 159844,
+              "order": 7,
+              "name_el": "SOL",
+              "name_en": "SOL",
+              "desc_el": "LAGER",
+              "desc_en": "LAGER",
+              "price": "6,00",
+              "image": "https://app.menurio.com/storage/32944/menurio-kookoovaya-xanthi-2025-03-15-14-09-09.jpeg"
+            },
+            {
+              "menurioId": 9460,
+              "order": 8,
+              "name_el": "GUINΝESS",
+              "name_en": "GUINΝESS",
+              "desc_el": "STOUT",
+              "desc_en": "STOUT",
+              "price": "6,00",
+              "image": "https://app.menurio.com/storage/3005/menurio-kookoovaya-xanthi-2021-11-11-23-30-36.jpg"
+            },
+            {
+              "menurioId": 31820,
+              "order": 9,
+              "name_el": "McFARLAND",
+              "name_en": "GRIMBERGEN DOUBLE",
+              "desc_el": "RED ALE",
+              "desc_en": "BELGIAN ABBEY",
+              "price": "6,00",
+              "image": "https://app.menurio.com/storage/32945/menurio-kookoovaya-xanthi-2025-03-15-14-09-52.jpeg"
+            },
+            {
+              "menurioId": 9463,
+              "order": 10,
+              "name_el": "AMSTEL RADLER",
+              "name_en": "MYTHOS RADLER",
+              "desc_el": "LOW  ALCOHOL",
+              "desc_en": "LOW  ALCOHOL",
+              "price": "5,00",
+              "image": "https://app.menurio.com/storage/32947/menurio-kookoovaya-xanthi-2025-03-15-14-11-55.jpeg"
+            },
+            {
+              "menurioId": 9464,
+              "order": 11,
+              "name_el": "HEINEKEN  0.0%",
+              "name_en": "FIX FREE",
+              "desc_el": "ALCOHOL FREE",
+              "desc_en": "ALCOHOL FREE",
+              "price": "5,00",
+              "image": "https://app.menurio.com/storage/32948/menurio-kookoovaya-xanthi-2025-03-15-14-12-12.jpeg"
+            },
+            {
+              "menurioId": 9461,
+              "order": 12,
+              "name_el": "ΜΗΛΟΚΛΕΦΤΗΣ FORBIDDEN APPLE",
+              "name_en": "SOMERSBY APPLE",
+              "desc_el": "ΜΗΛΙΤΗΣ",
+              "desc_en": "CIDER",
+              "price": "5,00",
+              "image": "https://app.menurio.com/storage/32949/menurio-kookoovaya-xanthi-2025-03-15-14-13-40.jpeg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menurioId": 449,
+      "order": 9,
+      "name_el": "SPIRITS",
+      "name_en": "SPIRITS",
+      "desc_el": "",
+      "desc_en": "",
+      "image": "https://app.menurio.com/storage/7872/menurio-kookoovaya-xanthi-2022-11-05-14-01-55.jpeg",
+      "categories": [
+        {
+          "menurioId": 9467,
+          "order": 1,
+          "name_el": "GIN",
+          "name_en": "GIN",
+          "desc_el": "",
+          "desc_en": "",
+          "image": "https://app.menurio.com/storage/30824/menurio-kookoovaya-xanthi-2024-11-30-15-04-07.jpeg",
+          "items": [
+            {
+              "menurioId": 154805,
+              "order": 1,
+              "name_el": "GINRAW",
+              "name_en": "GINRAW",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "11,00",
+              "image": "https://app.menurio.com/storage/31846/menurio-kookoovaya-xanthi-2025-02-08-17-31-25.jpeg"
+            },
+            {
+              "menurioId": 31812,
+              "order": 2,
+              "name_el": "GIN MARE",
+              "name_en": "GIN MARE",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "11,00",
+              "image": "https://app.menurio.com/storage/18575/menurio-kookoovaya-xanthi-2023-12-05-17-17-29.jpeg"
+            },
+            {
+              "menurioId": 9473,
+              "order": 3,
+              "name_el": "G' VINE FLORAISON",
+              "name_en": "G' VINE FLORAISON",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "10,00",
+              "image": "https://app.menurio.com/storage/6131/menurio-kookoovaya-xanthi-2022-06-25-15-05-16.jpeg"
+            },
+            {
+              "menurioId": 76616,
+              "order": 4,
+              "name_el": "ETSU HANDCRAFTED",
+              "name_en": "ETSU HANDCRAFTED",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "10,00",
+              "image": "https://app.menurio.com/storage/18576/menurio-kookoovaya-xanthi-2023-12-05-17-20-41.jpeg"
+            },
+            {
+              "menurioId": 9468,
+              "order": 5,
+              "name_el": "GRACE",
+              "name_en": "GRACE",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "9,00",
+              "image": "https://app.menurio.com/storage/2949/menurio-kookoovaya-xanthi-2021-11-11-21-40-01.jpg"
+            },
+            {
+              "menurioId": 9471,
+              "order": 6,
+              "name_el": "HENDRICK'S",
+              "name_en": "HENDRICK'S",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "9,00",
+              "image": "https://app.menurio.com/storage/2950/menurio-kookoovaya-xanthi-2021-11-11-21-40-38.jpg"
+            },
+            {
+              "menurioId": 76617,
+              "order": 7,
+              "name_el": "AVIATION",
+              "name_en": "AVIATION",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "9,00",
+              "image": "https://app.menurio.com/storage/18577/menurio-kookoovaya-xanthi-2023-12-05-17-23-12.jpeg"
+            },
+            {
+              "menurioId": 76618,
+              "order": 8,
+              "name_el": "TANQUERAY NO TEN",
+              "name_en": "TANQUERAY NO TEN",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "9,00",
+              "image": "https://app.menurio.com/storage/18579/menurio-kookoovaya-xanthi-2023-12-05-17-28-35.jpeg"
+            },
+            {
+              "menurioId": 76619,
+              "order": 9,
+              "name_el": "SUNTORY ROKU",
+              "name_en": "SUNTORY ROKU",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "9,00",
+              "image": "https://app.menurio.com/storage/18580/menurio-kookoovaya-xanthi-2023-12-05-17-30-42.jpeg"
+            },
+            {
+              "menurioId": 9469,
+              "order": 10,
+              "name_el": "OPIHR ORIENTAL SPICED",
+              "name_en": "OPIHR ORIENTAL SPICED",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "9,00",
+              "image": "https://app.menurio.com/storage/2951/menurio-kookoovaya-xanthi-2021-11-11-21-41-19.jpg"
+            },
+            {
+              "menurioId": 9474,
+              "order": 11,
+              "name_el": "MATAROA",
+              "name_en": "MATAROA",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "9,00",
+              "image": "https://app.menurio.com/storage/2953/menurio-kookoovaya-xanthi-2021-11-11-21-43-40.jpg"
+            },
+            {
+              "menurioId": 9472,
+              "order": 12,
+              "name_el": "TANQUERAY",
+              "name_en": "TANQUERAY",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "8,00",
+              "image": "https://app.menurio.com/storage/30823/menurio-kookoovaya-xanthi-2024-11-30-15-00-29.jpeg"
+            },
+            {
+              "menurioId": 9475,
+              "order": 13,
+              "name_el": "BEEFEATER",
+              "name_en": "GREENALL'S",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "7,00",
+              "image": "https://app.menurio.com/storage/43164/menurio-kookoovaya-xanthi-2025-08-08-13-39-27.jpeg"
+            }
+          ]
+        },
+        {
+          "menurioId": 9489,
+          "order": 2,
+          "name_el": "VODKA",
+          "name_en": "VODKA",
+          "desc_el": "",
+          "desc_en": "",
+          "image": "https://app.menurio.com/storage/30825/menurio-kookoovaya-xanthi-2024-11-30-15-07-08.jpeg",
+          "items": [
+            {
+              "menurioId": 9491,
+              "order": 1,
+              "name_el": "ABSOLUT ELYX",
+              "name_en": "ABSOLUT ELYX",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "11,00",
+              "image": "https://app.menurio.com/storage/2936/menurio-kookoovaya-xanthi-2021-11-11-21-18-22.jpg"
+            },
+            {
+              "menurioId": 9495,
+              "order": 2,
+              "name_el": "BELVEDERE",
+              "name_en": "BELVEDERE",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "11,00",
+              "image": "https://app.menurio.com/storage/2940/menurio-kookoovaya-xanthi-2021-11-11-21-23-26.jpg"
+            },
+            {
+              "menurioId": 9494,
+              "order": 3,
+              "name_el": "GREY GOOSE",
+              "name_en": "GREY GOOSE",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "11,00",
+              "image": "https://app.menurio.com/storage/2939/menurio-kookoovaya-xanthi-2021-11-11-21-21-33.jpg"
+            },
+            {
+              "menurioId": 9492,
+              "order": 4,
+              "name_el": "CIROC",
+              "name_en": "CIROC",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "10,00",
+              "image": "https://app.menurio.com/storage/30826/menurio-kookoovaya-xanthi-2024-11-30-15-10-59.jpeg"
+            },
+            {
+              "menurioId": 9493,
+              "order": 5,
+              "name_el": "SAUSAGE TREE PURE IRISH",
+              "name_en": "SAUSAGE TREE PURE IRISH",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "9,00",
+              "image": "https://app.menurio.com/storage/2938/menurio-kookoovaya-xanthi-2021-11-11-21-20-52.jpg"
+            },
+            {
+              "menurioId": 9497,
+              "order": 6,
+              "name_el": "STOLICHNAYA",
+              "name_en": "STOLICHNAYA",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "7,00",
+              "image": "https://app.menurio.com/storage/18581/menurio-kookoovaya-xanthi-2023-12-05-17-32-55.jpeg"
+            }
+          ]
+        },
+        {
+          "menurioId": 9476,
+          "order": 3,
+          "name_el": "RUM",
+          "name_en": "RUM",
+          "desc_el": "",
+          "desc_en": "",
+          "image": "https://app.menurio.com/storage/30838/menurio-kookoovaya-xanthi-2024-12-03-13-08-33.jpeg",
+          "items": [
+            {
+              "menurioId": 9478,
+              "order": 1,
+              "name_el": "RON ZACAPA 23",
+              "name_en": "RON ZACAPA 23",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "12,00",
+              "image": "https://app.menurio.com/storage/2956/menurio-kookoovaya-xanthi-2021-11-11-21-47-21.jpg"
+            },
+            {
+              "menurioId": 9477,
+              "order": 2,
+              "name_el": "DICTADOR 20 YEARS",
+              "name_en": "DICTADOR 20 YEARS",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "12,00",
+              "image": "https://app.menurio.com/storage/2955/menurio-kookoovaya-xanthi-2021-11-11-21-45-57.jpg"
+            },
+            {
+              "menurioId": 9479,
+              "order": 3,
+              "name_el": "DOORLY'S GOLD 12 YEARS",
+              "name_en": "DOORLY'S GOLD 12 YEARS",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "11,00",
+              "image": "https://app.menurio.com/storage/2957/menurio-kookoovaya-xanthi-2021-11-11-21-48-10.jpg"
+            },
+            {
+              "menurioId": 9483,
+              "order": 4,
+              "name_el": "BOTRAN RESERVA 15 YEARS",
+              "name_en": "BOTRAN RESERVA 15 YEARS",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "10,00",
+              "image": "https://app.menurio.com/storage/2961/menurio-kookoovaya-xanthi-2021-11-11-21-52-49.jpg"
+            },
+            {
+              "menurioId": 9481,
+              "order": 5,
+              "name_el": "DIPLOMATICO RESERVA EXCLUSIVA 12 YEARS",
+              "name_en": "DIPLOMATICO RESERVA EXCLUSIVA 12 YEARS",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "10,00",
+              "image": "https://app.menurio.com/storage/2959/menurio-kookoovaya-xanthi-2021-11-11-21-50-35.jpg"
+            },
+            {
+              "menurioId": 9482,
+              "order": 6,
+              "name_el": "EL DORADO 12 YEARS",
+              "name_en": "EL DORADO 12 YEARS",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "10,00",
+              "image": "https://app.menurio.com/storage/2960/menurio-kookoovaya-xanthi-2021-11-11-21-51-38.jpg"
+            },
+            {
+              "menurioId": 31815,
+              "order": 7,
+              "name_el": "FLOR DE CANA CENTENARIO 12 YEARS",
+              "name_en": "FLOR DE CANA CENTENARIO 12 YEARS",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "9,00",
+              "image": "https://app.menurio.com/storage/6067/menurio-kookoovaya-xanthi-2022-06-16-18-14-59.jpeg"
+            },
+            {
+              "menurioId": 31814,
+              "order": 9,
+              "name_el": "ANGOSTURA 7 YEARS",
+              "name_en": "ANGOSTURA 7 YEARS",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "9,00",
+              "image": "https://app.menurio.com/storage/6068/menurio-kookoovaya-xanthi-2022-06-16-18-16-22.jpeg"
+            },
+            {
+              "menurioId": 31816,
+              "order": 10,
+              "name_el": "RON MATUSALEM GRAN RESERVA 15",
+              "name_en": "RON MATUSALEM GRAN RESERVA 15",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "9,00",
+              "image": "https://app.menurio.com/storage/6065/menurio-kookoovaya-xanthi-2022-06-16-18-13-32.jpeg"
+            },
+            {
+              "menurioId": 9486,
+              "order": 11,
+              "name_el": "CHAIRMAN'S RESERVE SPICED",
+              "name_en": "CHAIRMAN'S RESERVE SPICED",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "9,00",
+              "image": "https://app.menurio.com/storage/2964/menurio-kookoovaya-xanthi-2021-11-11-21-55-27.jpg"
+            },
+            {
+              "menurioId": 9485,
+              "order": 12,
+              "name_el": "PLANTATION GRANDE RESERVE 5 YEARS",
+              "name_en": "PLANTATION GRANDE RESERVE 5 YEARS",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "9,00",
+              "image": "https://app.menurio.com/storage/2963/menurio-kookoovaya-xanthi-2021-11-11-21-54-40.jpg"
+            },
+            {
+              "menurioId": 9487,
+              "order": 13,
+              "name_el": "HAVANA CLUB RESERVA",
+              "name_en": "HAVANA CLUB RESERVA",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "7,00",
+              "image": "https://app.menurio.com/storage/6064/menurio-kookoovaya-xanthi-2022-06-16-18-12-36.jpeg"
+            },
+            {
+              "menurioId": 9488,
+              "order": 14,
+              "name_el": "BACARDI CARTA BLANCA",
+              "name_en": "BACARDI CARTA BLANCA",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "7,00",
+              "image": "https://app.menurio.com/storage/2966/menurio-kookoovaya-xanthi-2021-11-11-21-59-32.jpg"
+            }
+          ]
+        },
+        {
+          "menurioId": 9498,
+          "order": 4,
+          "name_el": "TEQUILA / MEZCAL",
+          "name_en": "TEQUILA / MEZCAL",
+          "desc_el": "",
+          "desc_en": "",
+          "image": "https://app.menurio.com/storage/31430/menurio-kookoovaya-xanthi-2025-01-09-15-29-09.jpeg",
+          "items": [
+            {
+              "menurioId": 9499,
+              "order": 0,
+              "name_el": "GRAN CORRALEJO ANEJO",
+              "name_en": "GRAN CORRALEJO ANEJO",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "16,00",
+              "image": "https://app.menurio.com/storage/2942/menurio-kookoovaya-xanthi-2021-11-11-21-29-45.jpg"
+            },
+            {
+              "menurioId": 9500,
+              "order": 0,
+              "name_el": "CORRALEJO 99.000 HORAS",
+              "name_en": "CORRALEJO 99.000 HORAS",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "13,00",
+              "image": "https://app.menurio.com/storage/2943/menurio-kookoovaya-xanthi-2021-11-11-21-30-40.jpg"
+            },
+            {
+              "menurioId": 9501,
+              "order": 0,
+              "name_el": "MONTELOBOS MEZCAL JOVEN",
+              "name_en": "MONTELOBOS MEZCAL JOVEN",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "12,00",
+              "image": "https://app.menurio.com/storage/2944/menurio-kookoovaya-xanthi-2021-11-11-21-33-36.jpg"
+            },
+            {
+              "menurioId": 9503,
+              "order": 0,
+              "name_el": "JOSE CUERVO REPOSADO",
+              "name_en": "JOSE CUERVO REPOSADO",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "8,00",
+              "image": "https://app.menurio.com/storage/6132/menurio-kookoovaya-xanthi-2022-06-25-15-07-02.jpeg"
+            },
+            {
+              "menurioId": 9504,
+              "order": 0,
+              "name_el": "JOSE CUERVO BLANCO",
+              "name_en": "JOSE CUERVO BLANCO",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "7,00",
+              "image": "https://app.menurio.com/storage/6133/menurio-kookoovaya-xanthi-2022-06-25-15-07-17.jpeg"
+            }
+          ]
+        },
+        {
+          "menurioId": 9505,
+          "order": 5,
+          "name_el": "BRANDY / COGNAC",
+          "name_en": "BRANDY / COGNAC",
+          "desc_el": "",
+          "desc_en": "",
+          "image": "https://app.menurio.com/storage/31431/menurio-kookoovaya-xanthi-2025-01-09-15-30-02.jpeg",
+          "items": [
+            {
+              "menurioId": 9506,
+              "order": 1,
+              "name_el": "COURVOISIER X.O. IMPERIAL",
+              "name_en": "COURVOISIER X.O. IMPERIAL",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "20,00",
+              "image": "https://app.menurio.com/storage/2993/menurio-kookoovaya-xanthi-2021-11-11-23-15-51.jpg"
+            },
+            {
+              "menurioId": 9509,
+              "order": 3,
+              "name_el": "HENNESSY V.S.",
+              "name_en": "HENNESSY V.S.",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "9,00",
+              "image": "https://app.menurio.com/storage/2997/menurio-kookoovaya-xanthi-2021-11-11-23-23-16.jpg"
+            },
+            {
+              "menurioId": 9510,
+              "order": 5,
+              "name_el": "METAXA 12",
+              "name_en": "METAXA 12",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "8,00",
+              "image": "https://app.menurio.com/storage/2998/menurio-kookoovaya-xanthi-2021-11-11-23-24-08.jpg"
+            },
+            {
+              "menurioId": 9511,
+              "order": 6,
+              "name_el": "METAXA 7",
+              "name_en": "METAXA 7",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "7,00",
+              "image": "https://app.menurio.com/storage/2999/menurio-kookoovaya-xanthi-2021-11-11-23-25-10.jpg"
+            }
+          ]
+        },
+        {
+          "menurioId": 9512,
+          "order": 6,
+          "name_el": "APERITIF / DIGESTIF",
+          "name_en": "APERITIF / DIGESTIF",
+          "desc_el": "",
+          "desc_en": "",
+          "image": "https://app.menurio.com/storage/31432/menurio-kookoovaya-xanthi-2025-01-09-15-31-49.jpeg",
+          "items": [
+            {
+              "menurioId": 9521,
+              "order": 1,
+              "name_el": "ΜΕΘΕΞΙΣ CIGAR",
+              "name_en": "METHEXIS CIGAR",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "9,00",
+              "image": "https://app.menurio.com/storage/2975/menurio-kookoovaya-xanthi-2021-11-11-22-10-52.jpg"
+            },
+            {
+              "menurioId": 9532,
+              "order": 2,
+              "name_el": "DRAMBUIE",
+              "name_en": "DRAMBUIE",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "8,00",
+              "image": "https://app.menurio.com/storage/2987/menurio-kookoovaya-xanthi-2021-11-11-22-31-24.jpg"
+            },
+            {
+              "menurioId": 9515,
+              "order": 3,
+              "name_el": "CAMPARI BITTER",
+              "name_en": "CAMPARI BITTER",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "7,00",
+              "image": "https://app.menurio.com/storage/2969/menurio-kookoovaya-xanthi-2021-11-11-22-04-28.jpg"
+            },
+            {
+              "menurioId": 9516,
+              "order": 4,
+              "name_el": "APEROL APERITIVO",
+              "name_en": "APEROL APERITIVO",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "7,00",
+              "image": "https://app.menurio.com/storage/2970/menurio-kookoovaya-xanthi-2021-11-11-22-05-42.jpg"
+            },
+            {
+              "menurioId": 9533,
+              "order": 5,
+              "name_el": "AMARETTO DISARONNO",
+              "name_en": "AMARETTO DISARRONO",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "7,00",
+              "image": "https://app.menurio.com/storage/2988/menurio-kookoovaya-xanthi-2021-11-11-22-32-41.jpg"
+            },
+            {
+              "menurioId": 9535,
+              "order": 6,
+              "name_el": "BAILEYS IRISH CREAM",
+              "name_en": "BAILEYS IRISH CREAM",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "7,00",
+              "image": "https://app.menurio.com/storage/2990/menurio-kookoovaya-xanthi-2021-11-11-22-34-45.jpg"
+            },
+            {
+              "menurioId": 9536,
+              "order": 7,
+              "name_el": "FRANGELICO",
+              "name_en": "FRANGELICO",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "7,00",
+              "image": "https://app.menurio.com/storage/2991/menurio-kookoovaya-xanthi-2021-11-11-22-35-55.jpg"
+            },
+            {
+              "menurioId": 9534,
+              "order": 8,
+              "name_el": "JAGERMEISTER",
+              "name_en": "JAGERMEISTER",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "7,00",
+              "image": "https://app.menurio.com/storage/2989/menurio-kookoovaya-xanthi-2021-11-11-22-33-36.jpg"
+            },
+            {
+              "menurioId": 9537,
+              "order": 9,
+              "name_el": "KAHLUA",
+              "name_en": "KAHLUA",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "7,00",
+              "image": "https://app.menurio.com/storage/2992/menurio-kookoovaya-xanthi-2021-11-11-22-37-15.jpg"
+            },
+            {
+              "menurioId": 9527,
+              "order": 10,
+              "name_el": "LIMONCELLO",
+              "name_en": "LIMONCELLO",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "7,00",
+              "image": "https://app.menurio.com/storage/18582/menurio-kookoovaya-xanthi-2023-12-05-17-44-47.jpeg"
+            },
+            {
+              "menurioId": 9529,
+              "order": 11,
+              "name_el": "ΛΙΚΕΡ ΜΑΣΤΙΧΑ",
+              "name_en": "MASTIQUE LIQUER",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "6,00",
+              "image": "https://app.menurio.com/storage/2985/menurio-kookoovaya-xanthi-2021-11-11-22-20-14.jpg"
+            },
+            {
+              "menurioId": 9517,
+              "order": 13,
+              "name_el": "MARTINI VERMOUTH RED/DRY/BLANC",
+              "name_en": "MARTINI VERMOUTH RED/DRY/BLANC",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "6,00",
+              "image": "https://app.menurio.com/storage/6063/menurio-kookoovaya-xanthi-2022-06-16-18-10-37.jpeg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menurioId": 451,
+      "order": 10,
+      "name_el": "WHISKEY WORLD",
+      "name_en": "WHISKEY WORLD",
+      "desc_el": "",
+      "desc_en": "",
+      "image": "https://app.menurio.com/storage/7873/menurio-kookoovaya-xanthi-2022-11-05-14-03-08.jpeg",
+      "categories": [
+        {
+          "menurioId": 9566,
+          "order": 0,
+          "name_el": "SCOTTISH MALTS",
+          "name_en": "SCOTTISH MALTS",
+          "desc_el": "",
+          "desc_en": "",
+          "image": "https://app.menurio.com/storage/2913/menurio-kookoovaya-xanthi-2021-11-11-18-43-57.jpg",
+          "items": [
+            {
+              "menurioId": 9567,
+              "order": 1,
+              "name_el": "HIGHLAND PARK 18 Y.O.",
+              "name_en": "HIGHLAND PARK 18 Y.O.",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "22,00",
+              "image": "https://app.menurio.com/storage/2914/menurio-kookoovaya-xanthi-2021-11-11-20-37-00.jpg"
+            },
+            {
+              "menurioId": 9574,
+              "order": 2,
+              "name_el": "BRUICHLADDICH PORT CHARLOTTE HEAVILY PEATED 10 Y.O.",
+              "name_en": "BRUICHLADDICH PORT CHARLOTTE HEAVILY PEATED 10 Y.O.",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "13,00",
+              "image": "https://app.menurio.com/storage/2921/menurio-kookoovaya-xanthi-2021-11-11-20-53-23.jpg"
+            },
+            {
+              "menurioId": 76621,
+              "order": 3,
+              "name_el": "BALVENIE DOUBLEWOOD 12 Y.O.",
+              "name_en": "BALVENIE DOUBLEWOOD 12 Y.O.",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "13,00",
+              "image": "https://app.menurio.com/storage/18587/menurio-kookoovaya-xanthi-2023-12-05-18-07-12.jpeg"
+            },
+            {
+              "menurioId": 9577,
+              "order": 4,
+              "name_el": "GLENFIDDICH 15 Y.O.",
+              "name_en": "GLENFIDDICH 15 Y.O.",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "12,00",
+              "image": "https://app.menurio.com/storage/2924/menurio-kookoovaya-xanthi-2021-11-11-21-00-28.jpg"
+            },
+            {
+              "menurioId": 9575,
+              "order": 5,
+              "name_el": "LAGAVULIN 8 Y.O.",
+              "name_en": "LAGAVULIN 8 Y.O.",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "12,00",
+              "image": "https://app.menurio.com/storage/18585/menurio-kookoovaya-xanthi-2023-12-05-18-03-31.jpeg"
+            },
+            {
+              "menurioId": 9578,
+              "order": 6,
+              "name_el": "KILCHOMAN MACHIR BAY",
+              "name_en": "KILCHOMAN MACHIR BAY",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "11,00",
+              "image": "https://app.menurio.com/storage/2925/menurio-kookoovaya-xanthi-2021-11-11-21-01-11.jpg"
+            },
+            {
+              "menurioId": 9573,
+              "order": 7,
+              "name_el": "LOCH LOMOND 12 Y.O.",
+              "name_en": "LOCH LOMOND 12 Y.O.",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "11,00",
+              "image": "https://app.menurio.com/storage/2920/menurio-kookoovaya-xanthi-2021-11-11-20-50-50.jpg"
+            },
+            {
+              "menurioId": 9588,
+              "order": 8,
+              "name_el": "GLENFIDDICH 12 Y.O.",
+              "name_en": "GLENFIDDICH 12 Y.O.",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "10,00",
+              "image": "https://app.menurio.com/storage/2934/menurio-kookoovaya-xanthi-2021-11-11-21-13-03.jpg"
+            },
+            {
+              "menurioId": 9583,
+              "order": 9,
+              "name_el": "GLEN GRANT 10 Y.O.",
+              "name_en": "GLEN GRANT 10 Y.O.",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "10,00",
+              "image": "https://app.menurio.com/storage/2929/menurio-kookoovaya-xanthi-2021-11-11-21-09-01.jpg"
+            },
+            {
+              "menurioId": 9586,
+              "order": 10,
+              "name_el": "TALISKER 10 Y.O.",
+              "name_en": "TALISKER 10 Y.O.",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "10,00",
+              "image": "https://app.menurio.com/storage/2932/menurio-kookoovaya-xanthi-2021-11-11-21-11-33.jpg"
+            },
+            {
+              "menurioId": 9569,
+              "order": 11,
+              "name_el": "ARRAN BARREL RESERVE",
+              "name_en": "ARRAN BARREL RESERVE",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "9,00",
+              "image": "https://app.menurio.com/storage/30813/menurio-kookoovaya-xanthi-2024-11-30-13-54-25.jpeg"
+            },
+            {
+              "menurioId": 9587,
+              "order": 12,
+              "name_el": "CARDHU 12 Y.O.",
+              "name_en": "CARDHU 12 Y.O.",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "9,00",
+              "image": "https://app.menurio.com/storage/2933/menurio-kookoovaya-xanthi-2021-11-11-21-12-13.jpg"
+            },
+            {
+              "menurioId": 9585,
+              "order": 13,
+              "name_el": "GLENMORANGIE 10 Y.O.",
+              "name_en": "GLENMORANGIE 10 Y.O.",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "9,00",
+              "image": "https://app.menurio.com/storage/2931/menurio-kookoovaya-xanthi-2021-11-11-21-10-52.jpg"
+            },
+            {
+              "menurioId": 9576,
+              "order": 14,
+              "name_el": "OLD PULTENEY 12 Y.O.",
+              "name_en": "OLD PULTENEY 12 Y.O.",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "9,00",
+              "image": "https://app.menurio.com/storage/30814/menurio-kookoovaya-xanthi-2024-11-30-13-55-25.jpeg"
+            },
+            {
+              "menurioId": 76620,
+              "order": 15,
+              "name_el": "AUCHENTOSHAN AMERICAN OAK",
+              "name_en": "AUCHENTOSHAN AMERICAN OAK",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "9,00",
+              "image": "https://app.menurio.com/storage/30815/menurio-kookoovaya-xanthi-2024-11-30-13-56-17.jpeg"
+            }
+          ]
+        },
+        {
+          "menurioId": 9589,
+          "order": 0,
+          "name_el": "SCOTTISH BLENDS",
+          "name_en": "SCOTTISH BLENDS",
+          "desc_el": "",
+          "desc_en": "",
+          "image": "https://app.menurio.com/storage/2913/menurio-kookoovaya-xanthi-2021-11-11-18-43-57.jpg",
+          "items": [
+            {
+              "menurioId": 9590,
+              "order": 1,
+              "name_el": "CHIVAS REGAL ROYAL SALUTE 21 Y.O.",
+              "name_en": "CHIVAS REGAL ROYAL SALUTE 21 Y.O.",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "21,00",
+              "image": "https://app.menurio.com/storage/3047/menurio-kookoovaya-xanthi-2021-11-12-00-39-35.jpg"
+            },
+            {
+              "menurioId": 9592,
+              "order": 2,
+              "name_el": "BALLANTINE'S 17 Y.O.",
+              "name_en": "BALLANTINE'S 17 Y.O.",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "15,00",
+              "image": "https://app.menurio.com/storage/3044/menurio-kookoovaya-xanthi-2021-11-12-00-36-28.jpg"
+            },
+            {
+              "menurioId": 9591,
+              "order": 3,
+              "name_el": "DEWAR'S 18 Y.O. 'THE VINTAGE'",
+              "name_en": "DEWAR'S 18 Y.O. 'THE VINTAGE'",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "14,00",
+              "image": "https://app.menurio.com/storage/3045/menurio-kookoovaya-xanthi-2021-11-12-00-37-21.jpg"
+            },
+            {
+              "menurioId": 18487,
+              "order": 4,
+              "name_el": "CHIVAS REGAL 18 Y.O.",
+              "name_en": "CHIVAS REGAL 18 Y.O.",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "14,00",
+              "image": "https://app.menurio.com/storage/3043/menurio-kookoovaya-xanthi-2021-11-12-00-35-42.jpg"
+            },
+            {
+              "menurioId": 9593,
+              "order": 5,
+              "name_el": "COMPASS BOX - GREAT KING STREET ARTIST'S BLEND",
+              "name_en": "COMPASS BOX - GREAT KING STREET ARTIST'S BLEND",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "9,00",
+              "image": "https://app.menurio.com/storage/3146/menurio-kookoovaya-xanthi-2021-11-12-14-24-22.jpg"
+            },
+            {
+              "menurioId": 9596,
+              "order": 6,
+              "name_el": "CHIVAS REGAL 12 Y.O.",
+              "name_en": "CHIVAS REGAL 12 Y.O.",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "9,00",
+              "image": "https://app.menurio.com/storage/3039/menurio-kookoovaya-xanthi-2021-11-12-00-31-15.jpg"
+            },
+            {
+              "menurioId": 9597,
+              "order": 7,
+              "name_el": "JOHNNIE WALKER BLACK LABEL 12 Y.O.",
+              "name_en": "JOHNNIE WALKER BLACK LABEL 12 Y.O.",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "9,00",
+              "image": "https://app.menurio.com/storage/3037/menurio-kookoovaya-xanthi-2021-11-12-00-30-09.jpg"
+            },
+            {
+              "menurioId": 149940,
+              "order": 8,
+              "name_el": "BALLANTINE'S FINEST",
+              "name_en": "BALLANTINE'S FINEST",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "7,00",
+              "image": "https://app.menurio.com/storage/30817/menurio-kookoovaya-xanthi-2024-11-30-14-05-55.jpeg"
+            },
+            {
+              "menurioId": 9599,
+              "order": 9,
+              "name_el": "CUTTY SARK",
+              "name_en": "CUTTY SARK",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "7,00",
+              "image": "https://app.menurio.com/storage/3147/menurio-kookoovaya-xanthi-2021-11-12-14-28-24.jpg"
+            },
+            {
+              "menurioId": 149939,
+              "order": 10,
+              "name_el": "DEWAR'S WHITE LABEL",
+              "name_en": "DEWAR'S WHITE LABEL",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "7,00",
+              "image": "https://app.menurio.com/storage/30816/menurio-kookoovaya-xanthi-2024-11-30-14-04-11.jpeg"
+            },
+            {
+              "menurioId": 9600,
+              "order": 11,
+              "name_el": "FAMOUS GROUSE",
+              "name_en": "FAMOUS GROUSE",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "7,00",
+              "image": "https://app.menurio.com/storage/3148/menurio-kookoovaya-xanthi-2021-11-12-14-33-19.jpg"
+            },
+            {
+              "menurioId": 9601,
+              "order": 12,
+              "name_el": "HAIG GOLD LABEL",
+              "name_en": "HAIG GOLD LABEL",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "7,00",
+              "image": "https://app.menurio.com/storage/3032/menurio-kookoovaya-xanthi-2021-11-12-00-26-14.jpg"
+            },
+            {
+              "menurioId": 9602,
+              "order": 13,
+              "name_el": "JOHNNIE WALKER RED LABEL",
+              "name_en": "JOHNNIE WALKER RED LABEL",
+              "desc_el": "",
+              "desc_en": "",
+              "price": "7,00",
+              "image": "https://app.menurio.com/storage/3031/menurio-kookoovaya-xanthi-2021-11-12-00-25-19.jpg"
+            }
+          ]
+        },
+        {
+          "menurioId": 9603,
+          "order": 0,
+          "name_el": "IRISH WHISKEY",
+          "name_en": "IRISH WHISKEY",
+          "desc_el": "",
+          "desc_en": "",
+          "image": "https://app.menurio.com/storage/3029/menurio-kookoovaya-xanthi-2021-11-12-00-18-36.jpg",
+          "items": [
+            {
+              "menurioId": 9606,
+              "order": 1,
+              "name_el": "BUSHMILLS 21 Y.O.",
+              "name_en": "BUSHMILLS 21 Y.O.",
+              "desc_el": "SINGLE MALT",
+              "desc_en": "SINGLE MALT",
+              "price": "23,00",
+              "image": "https://app.menurio.com/storage/3026/menurio-kookoovaya-xanthi-2021-11-11-23-52-02.jpg"
+            },
+            {
+              "menurioId": 9607,
+              "order": 2,
+              "name_el": "BUSHMILLS 10 Y.O.",
+              "name_en": "BUSHMILLS 10 Y.O.",
+              "desc_el": "SINGLE MALT",
+              "desc_en": "SINGLE MALT",
+              "price": "9,00",
+              "image": "https://app.menurio.com/storage/3025/menurio-kookoovaya-xanthi-2021-11-11-23-51-11.jpg"
+            },
+            {
+              "menurioId": 76622,
+              "order": 3,
+              "name_el": "TULLAMORE DEW 12 Y.O.",
+              "name_en": "TULLAMORE DEW 12 Y.O.",
+              "desc_el": "IRISH BLENDS",
+              "desc_en": "IRISH BLENDS",
+              "price": "9,00",
+              "image": "https://app.menurio.com/storage/18588/menurio-kookoovaya-xanthi-2023-12-05-18-17-04.jpeg"
+            },
+            {
+              "menurioId": 9604,
+              "order": 4,
+              "name_el": "JAMESON BLACK BARREL",
+              "name_en": "JAMESON BLACK BARREL",
+              "desc_el": "IRISH BLENDS",
+              "desc_en": "IRISH BLENDS",
+              "price": "9,00",
+              "image": "https://app.menurio.com/storage/30819/menurio-kookoovaya-xanthi-2024-11-30-14-28-19.jpeg"
+            },
+            {
+              "menurioId": 9605,
+              "order": 5,
+              "name_el": "BUSHMILLS BLACK BUSH",
+              "name_en": "BUSHMILLS BLACK BUSH",
+              "desc_el": "IRISH BLENDS",
+              "desc_en": "IRISH BLENDS",
+              "price": "8,00",
+              "image": "https://app.menurio.com/storage/30818/menurio-kookoovaya-xanthi-2024-11-30-14-25-52.jpeg"
+            },
+            {
+              "menurioId": 9609,
+              "order": 7,
+              "name_el": "JAMESON",
+              "name_en": "JAMESON",
+              "desc_el": "IRISH BLENDS",
+              "desc_en": "IRISH BLENDS",
+              "price": "7,00",
+              "image": "https://app.menurio.com/storage/3149/menurio-kookoovaya-xanthi-2021-11-12-14-36-56.jpg"
+            },
+            {
+              "menurioId": 9610,
+              "order": 8,
+              "name_el": "TULLAMORE DEW",
+              "name_en": "TULLAMORE DEW",
+              "desc_el": "IRISH BLENDS",
+              "desc_en": "IRISH BLENDS",
+              "price": "7,00",
+              "image": "https://app.menurio.com/storage/3150/menurio-kookoovaya-xanthi-2021-11-12-14-40-08.jpg"
+            }
+          ]
+        },
+        {
+          "menurioId": 9611,
+          "order": 0,
+          "name_el": "AMERICAN WHISKEY",
+          "name_en": "AMERICAN WHISKEY",
+          "desc_el": "",
+          "desc_en": "",
+          "image": "https://app.menurio.com/storage/30820/menurio-kookoovaya-xanthi-2024-11-30-14-31-44.jpeg",
+          "items": [
+            {
+              "menurioId": 9617,
+              "order": 1,
+              "name_el": "JACK DANIEL'S SINGLE BARREL",
+              "name_en": "JACK DANIEL'S SINGLE BARREL",
+              "desc_el": "AMERICAN WHISKEY (TENNESSE WHISKEY)",
+              "desc_en": "AMERICAN WHISKEY (TENNESSE WHISKEY)",
+              "price": "10,00",
+              "image": "https://app.menurio.com/storage/3151/menurio-kookoovaya-xanthi-2021-11-12-14-50-03.jpg"
+            },
+            {
+              "menurioId": 9615,
+              "order": 2,
+              "name_el": "FOUR ROSES SMALL BATCH",
+              "name_en": "FOUR ROSES SMALL BATCH",
+              "desc_el": "AMERICAN WHISKEY (BOURBON)",
+              "desc_en": "AMERICAN WHISKEY (BOURBON)",
+              "price": "9,00",
+              "image": "https://app.menurio.com/storage/3155/menurio-kookoovaya-xanthi-2021-11-12-14-58-28.jpg"
+            },
+            {
+              "menurioId": 149941,
+              "order": 3,
+              "name_el": "MAKER'S MARK",
+              "name_en": "MAKER'S MARK",
+              "desc_el": "AMERICAN WHISKEY (BOURBON)",
+              "desc_en": "AMERICAN WHISKEY (BOURBON)",
+              "price": "9,00",
+              "image": "https://app.menurio.com/storage/30821/menurio-kookoovaya-xanthi-2024-11-30-14-39-45.jpeg"
+            },
+            {
+              "menurioId": 9618,
+              "order": 4,
+              "name_el": "JACK DANIEL'S OLD NO. 7",
+              "name_en": "JACK DANIEL'S OLD NO. 7",
+              "desc_el": "AMERICAN WHISKEY (TENNESSE WHISKEY)",
+              "desc_en": "AMERICAN WHISKEY (TENNESSE WHISKEY)",
+              "price": "8,00",
+              "image": "https://app.menurio.com/storage/3159/menurio-kookoovaya-xanthi-2021-11-12-15-04-48.jpg"
+            },
+            {
+              "menurioId": 18235,
+              "order": 5,
+              "name_el": "JIM BEAM",
+              "name_en": "JIM BEAM",
+              "desc_el": "AMERICAN WHISKEY (BOURBON)",
+              "desc_en": "AMERICAN WHISKEY (BOURBON)",
+              "price": "8,00",
+              "image": "https://app.menurio.com/storage/18590/menurio-kookoovaya-xanthi-2023-12-05-18-21-34.jpeg"
+            },
+            {
+              "menurioId": 9612,
+              "order": 6,
+              "name_el": "WOODFORD RESERVE DOUBLE OAKED",
+              "name_en": "WOODFORD RESERVE DOUBLE OAKED",
+              "desc_el": "AMERICAN WHISKEY (BOURBON)",
+              "desc_en": "AMERICAN WHISKEY (BOURBON)",
+              "price": "11,00",
+              "image": "https://app.menurio.com/storage/3158/menurio-kookoovaya-xanthi-2021-11-12-15-02-29.jpg"
+            },
+            {
+              "menurioId": 9614,
+              "order": 7,
+              "name_el": "WILD TURKEY RARE BREED",
+              "name_en": "WILD TURKEY RARE BREED",
+              "desc_el": "AMERICAN WHISKEY (BOURBON)",
+              "desc_en": "AMERICAN WHISKEY (BOURBON)",
+              "price": "11,00",
+              "image": "https://app.menurio.com/storage/3019/menurio-kookoovaya-xanthi-2021-11-11-23-44-31.jpg"
+            },
+            {
+              "menurioId": 9620,
+              "order": 8,
+              "name_el": "NIKKA TAKETSURU PURE MALT",
+              "name_en": "NIKKA TAKETSURU PURE MALT",
+              "desc_el": "JAPANESE WHISKY",
+              "desc_en": "JAPANESE WHISKY",
+              "price": "13,00",
+              "image": "https://app.menurio.com/storage/3012/menurio-kookoovaya-xanthi-2021-11-11-23-37-05.jpg"
+            },
+            {
+              "menurioId": 9619,
+              "order": 9,
+              "name_el": "NIKKA COFFEY GRAIN WHISKY",
+              "name_en": "NIKKA COFFEY GRAIN WHISKY",
+              "desc_el": "JAPANESE WHISKY",
+              "desc_en": "JAPANESE WHISKY",
+              "price": "12,00",
+              "image": "https://app.menurio.com/storage/3013/menurio-kookoovaya-xanthi-2021-11-11-23-37-49.jpg"
+            },
+            {
+              "menurioId": 9622,
+              "order": 10,
+              "name_el": "KAVALAN EX-BOURBON OAK",
+              "name_en": "KAVALAN EX-BOURBON OAK",
+              "desc_el": "TAIWAN WHISKY",
+              "desc_en": "TAIWAN WHISKY",
+              "price": "13,00",
+              "image": "https://app.menurio.com/storage/3010/menurio-kookoovaya-xanthi-2021-11-11-23-35-32.jpg"
+            },
+            {
+              "menurioId": 9621,
+              "order": 11,
+              "name_el": "PAUL JOHN BRILLIANCE",
+              "name_en": "PAUL JOHN BRILLIANCE",
+              "desc_el": "INDIA WHISKY",
+              "desc_en": "INDIA WHISKY",
+              "price": "11,00",
+              "image": "https://app.menurio.com/storage/3011/menurio-kookoovaya-xanthi-2021-11-11-23-36-18.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menurioId": 7446,
+      "order": 11,
+      "name_el": "PLATEIA BY KOOKOOVAYA",
+      "name_en": "PLATEIA BY KOOKOOVAYA",
+      "desc_el": "ΜΕΝΟΥ ΦΑΓΗΤΟΥ BY PLATEIA",
+      "desc_en": "FOOD MENU BY PLATEIA",
+      "image": "https://app.menurio.com/storage/32322/menurio-kookoovaya-xanthi-2025-02-27-14-49-20.jpeg",
+      "categories": [
+        {
+          "menurioId": 157401,
+          "order": 1,
+          "name_el": "ΣΑΛΑΤΕΣ",
+          "name_en": "SALADS",
+          "desc_el": "",
+          "desc_en": "",
+          "image": "https://app.menurio.com/storage/7870/menurio-kookoovaya-xanthi-2022-11-05-13-58-50.jpeg",
+          "items": [
+            {
+              "menurioId": 157502,
+              "order": 1,
+              "name_el": "ΠΑΤΑΤΟΣΑΛΑΤΑ",
+              "name_en": "POTATO SALAD",
+              "desc_el": "Φρέσκα μυρωδικά, πίκλα αγγουριού, αυγό & dressing μαγιονέζας.",
+              "desc_en": "Fresh herbs, pickled cucumber, egg & mayonnaise dressing.",
+              "price": "8,50",
+              "image": null
+            },
+            {
+              "menurioId": 157505,
+              "order": 2,
+              "name_el": "ΕΛΛΗΝΙΚΗ",
+              "name_en": "GREEK SALAD",
+              "desc_el": "Ντοματίνια Χανίων, ντακάκια χαρουπιού, Κατίκι Δομοκού, κρίταμο, πίκλα κρεμμυδιού & εξαιρετικά παρθένο ελαιόλαδο.",
+              "desc_en": "Chania's cherry tomatoes, carob nibbles, Katiki Domokou, kritamo, pickled onion & extra virgin olive oil.",
+              "price": "10,50",
+              "image": null
+            },
+            {
+              "menurioId": 157504,
+              "order": 3,
+              "name_el": "POPEYE",
+              "name_en": "POPEYE",
+              "desc_el": "Φύλλα από Baby σπανάκι & baby ρόκα, crispy ποσέ αυγό, φέτα σαγανάκι, bacon, ψητά μανιτάρια, τραγανά φύλλα σουσάμι & honey mustard sauce.",
+              "desc_en": "Baby spinach & baby arugula leaves, crispy poached egg, feta cheese, bacon, grilled mushrooms, crispy sesame leaves & honey mustard sauce.",
+              "price": "9,50",
+              "image": null
+            },
+            {
+              "menurioId": 157503,
+              "order": 4,
+              "name_el": "CEASAR’S",
+              "name_en": "CEASAR’S",
+              "desc_el": "Δροσερά φύλλα σαλάτας, κροκέτες κοτόπουλο, crispy bacon, παρμεζάνα 24 μηνών ωρίμανσης & χειροποίητη Ceasar’s Sauce.",
+              "desc_en": "Fresh salad leaves, chicken croquettes, bacon, 24-month-aged parmesan & handmade Caesar sauce.",
+              "price": "9,50",
+              "image": null
+            }
+          ]
+        },
+        {
+          "menurioId": 157402,
+          "order": 2,
+          "name_el": "ΟΡΕΚΤΙΚΑ",
+          "name_en": "APPETIZERS",
+          "desc_el": "",
+          "desc_en": "",
+          "image": "https://app.menurio.com/storage/32326/menurio-kookoovaya-xanthi-2025-02-27-14-55-38.jpeg",
+          "items": [
+            {
+              "menurioId": 157515,
+              "order": 1,
+              "name_el": "ΦΡΕΣΚΕΣ ΤΗΓΑΝΗΤΕΣ ΠΑΤΑΤΕΣ",
+              "name_en": "FRESH FRENCH FRIES",
+              "desc_el": "Με τριμμένη παρμεζάνα & φρέσκια ρίγανη.",
+              "desc_en": "With grated parmesan & fresh oregano.",
+              "price": "5,90",
+              "image": null
+            },
+            {
+              "menurioId": 157514,
+              "order": 2,
+              "name_el": "ΣΝΙΤΣΕΛ ΜΕΛΙΤΖΑΝΑΣ",
+              "name_en": "EGGPLANT SCHNITZEL",
+              "desc_el": "Pico de gallo, κασέρι Ξάνθης & ξύδι Xeres.",
+              "desc_en": "Pico de gallo, Xanthi's cheese & Xeres vinegar.",
+              "price": "8,50",
+              "image": null
+            },
+            {
+              "menurioId": 157513,
+              "order": 3,
+              "name_el": "ΑΛΜΥΡΟ ΚΙΟΥΝΕΦΕ",
+              "name_en": "SALTY KIUNEFE",
+              "desc_el": "Κανταΐφι, παραδοσιακή φέτα Ξάνθης, φυστίκι Αιγίνης & γλυκό κουταλιού βύσσινο.",
+              "desc_en": "Τraditional Xanthi's feta cheese wrapped in Kadaifi, pistachios  & sour cherry sauce.sour cherry yogurt parfait.",
+              "price": "7,90",
+              "image": null
+            },
+            {
+              "menurioId": 157512,
+              "order": 4,
+              "name_el": "ARANCINI RAGU",
+              "name_en": "ARANCINI RAGU",
+              "desc_el": "Κροκέτα ρυζιού με μοσχαρίσιο μάγουλο, κατσικίσιος κορμός & cacio e pepe sauce.",
+              "desc_en": "Rice croquette with beef cheeks, goat cheese log & cacio e pepe sauce.",
+              "price": "9,50",
+              "image": null
+            },
+            {
+              "menurioId": 157511,
+              "order": 5,
+              "name_el": "ΤΗΓΑΝΗΤΑ ΒΡΑΧΑΚΙΑ ΠΑΤΑΤΑΣ",
+              "name_en": "FRIED POTATO ROCKS",
+              "desc_el": "Με κρέμα στάκας - γραβιέρας, crispy αυγό ποσέ & παραδοσιακό θρακιώτικο λουκάνικο.",
+              "desc_en": "With graviera & staka cream, crispy poached egg & traditional Thracian sausage.",
+              "price": "7,50",
+              "image": null
+            },
+            {
+              "menurioId": 157510,
+              "order": 6,
+              "name_el": "ΜΠΟΥΡΕΚΑΚΙΑ",
+              "name_en": "FRIED FILLED PASTRY",
+              "desc_el": "Καπνιστή μους τυριών & χειροποίητο γλυκο κουταλιού πορτοκάλι.",
+              "desc_en": "Smoked cheese mousse & handmade orange sauce.",
+              "price": "7,90",
+              "image": null
+            },
+            {
+              "menurioId": 157509,
+              "order": 7,
+              "name_el": "TZATZIKI ABOKANTO",
+              "name_en": "AVOCADO TZATZIKI",
+              "desc_el": "Chips τορτίγιας, chilli & lime.",
+              "desc_en": "Tortilla chips, chilli & lime.",
+              "price": "8,90",
+              "image": null
+            },
+            {
+              "menurioId": 157508,
+              "order": 8,
+              "name_el": "ΚΡΟΚΕΤΕΣ ΚΟΤΟΠΟΥΛΟ",
+              "name_en": "CHICKEN CROQUETTES",
+              "desc_el": "Μπεσαμέλ γραβιέρας, καπνιστό μπέικον & Chipotle mayo.",
+              "desc_en": "Bechamel sauce, smoked bacon & Chipotle mayo.",
+              "price": "8,50",
+              "image": null
+            },
+            {
+              "menurioId": 157507,
+              "order": 9,
+              "name_el": "CARPACCIO ΑΠΟ ΦΙΛΕΤΟ ΕΛΛΗΝΙΚΗΣ ΜΟΣΧΙΔΑΣ",
+              "name_en": "GREEK MOSQUE FILLET CARPACCIO",
+              "desc_el": "Με κασέρι Ξάνθης, άγρια ρόκα, τριμμένο φουντούκι & μαγιονέζα τρούφας.",
+              "desc_en": "With Xanthi's caseri cheese, wild rocket, grated hazelnut & truffle mayonnaise.",
+              "price": "12,50",
+              "image": null
+            },
+            {
+              "menurioId": 157506,
+              "order": 10,
+              "name_el": "BIG PLATTER",
+              "name_en": "BIG PLATTER",
+              "desc_el": "Ποικιλία από τυριά & αλλαντικά.",
+              "desc_en": "A Variety Of Cheeses & Cold Meat Cuts.",
+              "price": "15,00",
+              "image": null
+            }
+          ]
+        },
+        {
+          "menurioId": 157403,
+          "order": 3,
+          "name_el": "PASTA & RISOTTO",
+          "name_en": "PASTA & RISOTTO",
+          "desc_el": "",
+          "desc_en": "",
+          "image": "https://app.menurio.com/storage/32328/menurio-kookoovaya-xanthi-2025-02-27-15-03-15.jpeg",
+          "items": [
+            {
+              "menurioId": 157521,
+              "order": 1,
+              "name_el": "ΡΑΒΙΟΛΙ ΑΓΡΙΩΝ ΜΑΝΙΤΑΡΙΩΝ",
+              "name_en": "WILD MUSHROOM RAVIOLI",
+              "desc_el": "Κρέμα πεκορίνο, φρέσκια τρούφα & καβουρδισμένο αμύγδαλο.",
+              "desc_en": "Pecorino cream, fresh truffle & roasted almond.",
+              "price": "14,90",
+              "image": null
+            },
+            {
+              "menurioId": 157520,
+              "order": 2,
+              "name_el": "ΚΡΙΘΑΡΟΤΟ ΜΕ SHORT RIBS",
+              "name_en": "BARLEY RISOTTO WITH SHORT RIBS",
+              "desc_el": "Σιγομαγειρεμένος σιδηρόδρομος για 12 ώρες, ντοματίνια confit & λάδι μυρωδικών.",
+              "desc_en": "12-hour slow-cooked short ribs, confit cherry tomatoes & herb oil.",
+              "price": "14,90",
+              "image": null
+            },
+            {
+              "menurioId": 157519,
+              "order": 3,
+              "name_el": "ΝΙΟΚΙ ΜΕ ΚΡΕΜΑ ΓΚΟΡΓΚΟΝΤΖΟΛΑ",
+              "name_en": "GNOCCHI WITH GORGONZOLA CREAM",
+              "desc_el": "Χειροποίητα νιόκι με προσούτο, γκοργκοντζόλα κρέμα παρμεζάνας & τριμμενο φουντούκι.",
+              "desc_en": "Handmade gnocchi with prosciutto, gorgonzola, parmesan cream & grated hazelnuts.",
+              "price": "10,50",
+              "image": null
+            },
+            {
+              "menurioId": 157518,
+              "order": 4,
+              "name_el": "RISOTTO ΑΓΡΙΩΝ ΜΑΝΙΤΑΡΙΩΝ",
+              "name_en": "WILD MUSHROOM RISOTTO",
+              "desc_el": "Με μανιτάρια σιτάκε & παρμεζάνα 24 μηνών ωρίμανσης",
+              "desc_en": "With shiitake mushrooms & parmesan aged for 24 months.",
+              "price": "11,50",
+              "image": null
+            },
+            {
+              "menurioId": 157517,
+              "order": 5,
+              "name_el": "ΓΚΟΓΚΕΣ ΜΕ ΜΟΣΧΑΡΙ ΡΑΓΟΥ",
+              "name_en": "GOGES WITH BEEF RAGU",
+              "desc_el": "Σιγομαγειρεμένο μοσχάρι για 12 ώρες, φρέσκο βούτυρο & ξηρό ανθότυρο Κρήτης.",
+              "desc_en": "Slow-cooked beef for 12 hours, fresh butter & dry Cretan anthotyro cheese.",
+              "price": "11,50",
+              "image": null
+            },
+            {
+              "menurioId": 157516,
+              "order": 6,
+              "name_el": "CARBONARA KOOKOOVAYA",
+              "name_en": "CARBONARA KOOKOOVAYA",
+              "desc_el": "Σκιουφιχτά με κρέμα στάκας, καπνιστό χοιρινό φιλέτο & γραβιέρα Νάξου.",
+              "desc_en": "Skiufichta with staka cream, smoked pork fillet & Naxos graviera.",
+              "price": "9,50",
+              "image": null
+            }
+          ]
+        },
+        {
+          "menurioId": 157404,
+          "order": 4,
+          "name_el": "MAIN COURSES",
+          "name_en": "MAIN COURSES",
+          "desc_el": "",
+          "desc_en": "",
+          "image": "https://app.menurio.com/storage/32400/menurio-kookoovaya-xanthi-2025-03-03-23-04-26.jpeg",
+          "items": [
+            {
+              "menurioId": 157529,
+              "order": 1,
+              "name_el": "ΚΟΤΟΛΕΤΑ MILANESE",
+              "name_en": "PORK CUTLET MILANESE",
+              "desc_el": "Τραγανή κοτολέτα σε πανκο & χειροποίητη πατατοσαλάτα.",
+              "desc_en": "Crispy pork cutlet in panko, coleslaw salad & handmade potato salad.",
+              "price": "12,50",
+              "image": null
+            },
+            {
+              "menurioId": 157528,
+              "order": 2,
+              "name_el": "ΜΠΙΦΤΕΚΙ BLACK ANGUS",
+              "name_en": "BLACK ANGUS BURGER",
+              "desc_el": "Πατάτες country, τζατζίκι αβοκάντο & χειροποίητες πίτες νααν.",
+              "desc_en": "Country potatoes, avocado tzatziki & handmade naan bread.",
+              "price": "11,50",
+              "image": null
+            },
+            {
+              "menurioId": 157527,
+              "order": 3,
+              "name_el": "ΜΙΣΟ ΚΟΤΟΠΟΥΛΟ ΦΙΛΕΤΟ",
+              "name_en": "GRILLED HALF CHICKEN FILLET",
+              "desc_el": "Με ψητά λαχανικά σχάρας & dressing μουσταρδας.",
+              "desc_en": "With grilled vegetables & lemon mustard dressing.",
+              "price": "13,50",
+              "image": null
+            },
+            {
+              "menurioId": 157526,
+              "order": 4,
+              "name_el": "ΚΕΜΠΑΠ ΩΡΙΜΑΝΣΗΣ",
+              "name_en": "AGED BEEF KEBAB",
+              "desc_el": "Χειροποιήτες πίτες νααν, τηγανητές πατάτες με φλούδα & αρωματικό γιαούρτι.",
+              "desc_en": "Handmade naan pies, fried skin potatoes & greek yogurt with herbs.",
+              "price": "12,50",
+              "image": null
+            },
+            {
+              "menurioId": 157525,
+              "order": 5,
+              "name_el": "ΠΟΙΚΙΛΙΑ ΛΟΥΚΑΝΙΚΩΝ ΓΙΑ 2",
+              "name_en": "VARIETY OF SAUSAGES FOR 2 PERSONS",
+              "desc_el": "Chips τορτίγιας, τζατζικι αβοκάντο & χειροποίητη πατατοσαλάτα.",
+              "desc_en": "Tortilla chips, avocado tzatziki & handmade potato salad.",
+              "price": "15,90",
+              "image": null
+            }
+          ]
+        },
+        {
+          "menurioId": 157405,
+          "order": 5,
+          "name_el": "PREMIUM BURGERS",
+          "name_en": "PREMIUM BURGERS",
+          "desc_el": "",
+          "desc_en": "",
+          "image": "https://app.menurio.com/storage/32333/menurio-kookoovaya-xanthi-2025-02-27-15-14-31.jpeg",
+          "items": [
+            {
+              "menurioId": 157536,
+              "order": 1,
+              "name_el": "CHEESEBURGER",
+              "name_en": "CHEESEBURGER",
+              "desc_el": "Iceberg, μαγιονέζα, double american cheese, πίκλες αγγουριού & μπιφτέκι black Angus 180gr.",
+              "desc_en": "Iceberg, mayonnaise, double american cheese, pickles & black Angus burger 180gr.",
+              "price": "8,90",
+              "image": null
+            },
+            {
+              "menurioId": 157535,
+              "order": 2,
+              "name_el": "TRUFFLE BACON BURGER",
+              "name_en": "TRUFFLE BACON BURGER",
+              "desc_el": "Truffle mayo, iceberg, ντομάτα, διπλό bacon, American cheese & μπιφτέκι black Angus 180gr.",
+              "desc_en": "Truffle mayo, iceberg, tomato, double bacon, American cheese & black Angus burger 180gr.",
+              "price": "9,50",
+              "image": null
+            },
+            {
+              "menurioId": 157534,
+              "order": 3,
+              "name_el": "KOOKOOVAYA BURGER",
+              "name_en": "KOOKOOVAYA BURGER",
+              "desc_el": "Truffle mayo, Chèvre, μανιτάρια σοτέ, καραμελωμένα κρεμμύδια & μπιφτέκι black Angus 180gr.",
+              "desc_en": "Truffle Mayo, chevre cheese, sauteed mushrooms, caramelized onions & black Angus burger 180gr.",
+              "price": "9,90",
+              "image": null
+            },
+            {
+              "menurioId": 157533,
+              "order": 4,
+              "name_el": "BBQ BURGER",
+              "name_en": "BBQ BURGER",
+              "desc_el": "Onion rings, bacon, american cheese, bbq sauce & μπιφτέκι black Angus 180gr.",
+              "desc_en": "Onion rings, bacon, american cheese, bbq sauce & black Angus burger 180gr.",
+              "price": "9,50",
+              "image": null
+            },
+            {
+              "menurioId": 157532,
+              "order": 5,
+              "name_el": "HANGOVER",
+              "name_en": "HANGOVER BURGER",
+              "desc_el": "Spicy mayo, ντομάτα, iceberg, american cheese, bacon, τηγανητό αυγό & μπιφτέκι black Angus 180gr.",
+              "desc_en": "Spicy mayo, tomato, iceberg, american cheese, bacon, fried egg & black Angus burger 180gr.",
+              "price": "9,50",
+              "image": null
+            },
+            {
+              "menurioId": 157531,
+              "order": 6,
+              "name_el": "SOUTHWEST",
+              "name_en": "SOUTHWEST",
+              "desc_el": "Chipotle mayo, γουακαμόλε, pico de gallo, american cheese & μπιφτέκι black Angus 180gr.",
+              "desc_en": "Chipotle mayo, guacamole, pico de gallo, american cheese & black Angus burger 180gr.",
+              "price": "9,50",
+              "image": null
+            },
+            {
+              "menurioId": 157530,
+              "order": 7,
+              "name_el": "CRUNCHY CHICKEN BURGER",
+              "name_en": "CRUNCHY CHICKEN BURGER",
+              "desc_el": "Spicy mayo, iceberg, κοτόπουλο σε panko, πίκλες αγγουριού & american cheese.",
+              "desc_en": "Spicy mayo, iceberg, chicken in panko, pickles & american cheese.",
+              "price": "8,90",
+              "image": null
+            }
+          ]
+        },
+        {
+          "menurioId": 157406,
+          "order": 6,
+          "name_el": "PIZZA CONTEMPORANEA",
+          "name_en": "PIZZA CONTEMPORANEA",
+          "desc_el": "H pizza στο Kookoovaya Urban Gastronomy ωριμάζει για 48 ώρες & ψήνεται σε θερμοκρασία περίπου 450 βαθμών με μέγιστο χρόνο τα 90 δευτερόλεπτα. Ο συνδυασμός αυτός δημιουργεί μια εξαιρετικά αφράτη & εύπεπτη ζύμη,  όπου με μαζί με τα εξαιρετικής ποιότητας Π.Ο.Π προϊόντα δημιουργεί ένα μοναδικό γευστικό αποτέλεσμα που περιμένει να ανακαλύψετε.",
+          "desc_en": "The pizza at Kookoovaya Urban Gastronomy is aged for 48 hours & baked at a temperature of approximately 450 degrees with a maximum time of 90 seconds. This combination creates an extremely fluffy & easily digestible dough, which together with the excellent quality P.O.D. products creates a unique tasty result that is waiting for you to discover.",
+          "image": "https://app.menurio.com/storage/32334/menurio-kookoovaya-xanthi-2025-02-27-15-17-20.jpeg",
+          "items": [
+            {
+              "menurioId": 157541,
+              "order": 1,
+              "name_el": "Margherita",
+              "name_en": "Margherita",
+              "desc_el": "Σάλτσα ντομάτας San Marzano, mozzarella Fior di Latte, βασιλικό & έξτρα παρθένο ελαιόλαδο",
+              "desc_en": "San Marzano tomato sauce, Fior di Latte mozzarella, basil & extra virgin olive oil.",
+              "price": "10,90",
+              "image": null
+            },
+            {
+              "menurioId": 157540,
+              "order": 2,
+              "name_el": "Pepperoni",
+              "name_en": "Pepperoni",
+              "desc_el": "Σάλτσα ντομάτας San Marzano, mozzarella Fior di Latte & pepperoni piccante",
+              "desc_en": "San Marzano tomato sauce, Fior di Latte mozzarella & spicy pepperoni.",
+              "price": "12,50",
+              "image": null
+            },
+            {
+              "menurioId": 157539,
+              "order": 3,
+              "name_el": "Fresca",
+              "name_en": "Fresca",
+              "desc_el": "Σάλτσα ντομάτας San Marzano, mozzarella Fior di Latte, προσούτο di Parma, ρόκα, παρμεζάνα & ντοματίνια",
+              "desc_en": "San Marzano tomato sauce, Fior di Latte mozzarella, Parma prosciutto, rocket, parmesan & cherry tomatoes.",
+              "price": "12,90",
+              "image": null
+            },
+            {
+              "menurioId": 157538,
+              "order": 4,
+              "name_el": "CARBONARA",
+              "name_en": "CARBONARA",
+              "desc_el": "Κρέμα πεκορίνο, mozzarella Fior di Latte, πούδρα bacon & τριμμένος κρόκος αυγού",
+              "desc_en": "Pecorino cream, Fior di Latte mozzarella, bacon powder & grated egg yolk.",
+              "price": "12,90",
+              "image": null
+            },
+            {
+              "menurioId": 157537,
+              "order": 5,
+              "name_el": "TARTUFATA",
+              "name_en": "TARTUFATA",
+              "desc_el": "Κρέμα λευκής τρούφας, mozzarella Fior di Latte, μανιτάρια πορτομπέλο & έξτρα παρθένο ελαιόλαδο",
+              "desc_en": "White truffle cream, Fior di Latte mozzarella, portobello mushrooms & extra virgin olive oil.",
+              "price": "13,50",
+              "image": null
+            },
+            {
+              "menurioId": 217326,
+              "order": 6,
+              "name_el": "Short Ribs",
+              "name_en": "Short Ribs",
+              "desc_el": "Σάλτσα ντομάτας San Marzano, mozzarella Fior di Latte, σιγομαγειρεμένο short rib, chips πατάτας & truffle mayo",
+              "desc_en": "San Marzano tomato sauce, Fior di Latte mozzarella, slow-cooked short rib, potato chips & truffle mayo.",
+              "price": "14,90",
+              "image": null
+            },
+            {
+              "menurioId": 217327,
+              "order": 7,
+              "name_el": "Pollo Frito",
+              "name_en": "Pollo Frito",
+              "desc_el": "Κρέμα 5 τυριά, mozzarella Fior di Latte, κοτομπουκιές, πούδρα μπέικον, καλαμπόκι & Caesar’s sauce",
+              "desc_en": "5 cheese cream, Fior di Latte mozzarella, chicken nuggets, bacon powder, corn & Caesar's sauce",
+              "price": "14,50",
+              "image": null
+            },
+            {
+              "menurioId": 217328,
+              "order": 8,
+              "name_el": "Cinque Formaggi E Guanciale",
+              "name_en": "Cinque Formaggi E Guanciale",
+              "desc_el": "Κρέμα 5 τυριών, mozzarella Fior di Latte, guanciale, γκοργκοντζόλα & σχοινόπρασο",
+              "desc_en": "5 cheese cream, Fior di Latte mozzarella, guanciale, gorgonzola & chives.",
+              "price": "13,90",
+              "image": null
+            },
+            {
+              "menurioId": 217329,
+              "order": 9,
+              "name_el": "Stracciatella",
+              "name_en": "Stracciatella",
+              "desc_el": "Κρέμα πεκορίνο, mozzarella Fior di Latte, stracciatella, pancetta affumicata & σχοινόπρασο",
+              "desc_en": "Pecorino cream, Fior di Latte mozzarella, stracciatella, smoked pancetta & chives.",
+              "price": "14,50",
+              "image": null
+            },
+            {
+              "menurioId": 217330,
+              "order": 10,
+              "name_el": "Pistachio",
+              "name_en": "Pistachio",
+              "desc_el": "Κρέμα φυστικιού, mozzarella Fior di Latte, stracciatella, mortadella di Bologna & τριμμένο φυστίκι",
+              "desc_en": "Pistachio cream, Fior di Latte mozzarella, stracciatella, mortadella di Bologna & grated pistachio.",
+              "price": "14,90",
+              "image": null
+            },
+            {
+              "menurioId": 217331,
+              "order": 11,
+              "name_el": "Pablo Honey",
+              "name_en": "Pablo Honey",
+              "desc_el": "Σάλτσα ντομάτας San Marzano, mozzarella Fior di Latte, spiannata piccante & hot honey",
+              "desc_en": "San Marzano tomato sauce, Fior di Latte mozzarella, spicy spiannata & hot honey.",
+              "price": "14,50",
+              "image": null
+            },
+            {
+              "menurioId": 217332,
+              "order": 12,
+              "name_el": "Romana",
+              "name_en": "Romana",
+              "desc_el": "Κρέμα πεκορίνο, mozzarella Fior di Latte, πατάτες, φρέσκο λουκάνικο & τριμμένη ρίγανη",
+              "desc_en": "Pecorino cream, Fior di Latte mozzarella, potatoes, fresh sausage & grated oregano.",
+              "price": "13,50",
+              "image": null
+            }
+          ]
+        },
+        {
+          "menurioId": 157542,
+          "order": 7,
+          "name_el": "DESSERTS",
+          "name_en": "DESSERTS",
+          "desc_el": "",
+          "desc_en": "",
+          "image": "https://app.menurio.com/storage/32335/menurio-kookoovaya-xanthi-2025-02-27-15-20-28.jpeg",
+          "items": [
+            {
+              "menurioId": 157545,
+              "order": 1,
+              "name_el": "ΤΡΙΛΟΓΙΑ BROWNIES ΣΟΚΟΛΑΤΑΣ",
+              "name_en": "CHOCOLATE BROWNIES TRILOGY",
+              "desc_el": "Σοκολατένια Brownies με μους φυστικιού, σοκολάτας & φυστικοβούτυρου σε συνδυασμό με δισκάκια λευκής σοκολάτας..",
+              "desc_en": "Chocolate brownies with pistachio, chocolate & peanut butter mousse combined with white chocolate discs.",
+              "price": "7,50",
+              "image": null
+            },
+            {
+              "menurioId": 157544,
+              "order": 2,
+              "name_el": "ΣΦΑΙΡΑ ΣΟΚΟΛΑΤΑΣ FERRERO",
+              "name_en": "FERRERO CHOCOLATE SPHERE",
+              "desc_el": "Σφαίρα σοκολάτας γάλακτος με μους Ferrero & παγωτό φουντούκι πάνω σε βάφλα καραμέλας. Σερβίρεται με ζεστή σάλτσα σοκολάτας.",
+              "desc_en": "Milk chocolate sphere with Ferrero mousse & hazelnut ice cream on a caramel waffle. Served with hot chocolate sauce.",
+              "price": "7,50",
+              "image": null
+            },
+            {
+              "menurioId": 157543,
+              "order": 3,
+              "name_el": "ΚΡΕΜ ΜΠΡΟΥΛΕ",
+              "name_en": "CREME BRUILLE",
+              "desc_el": "Με μους φυστίκι και παστέλι σουσαμιού.",
+              "desc_en": "With pistachio mousse and sesame seed Florentine.",
+              "price": "7,50",
+              "image": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
