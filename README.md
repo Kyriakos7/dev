@@ -58,15 +58,16 @@ You need: Node 20+, a Postgres database (local Postgres, Neon, Supabase…), and
 cd C:\Users\Kousex\kariera
 npm install
 
-# 1. Production env — create .env.production (never commit it)
-#    DATABASE_URI=postgres://user:password@host:5432/kazanoba
+# 1. Production env — create .env.production (never commit it).
+#    On Vercel + Neon this is automatic: DATABASE_URL comes from the integration
+#    (use the POOLED Neon URL, with ?sslmode=require). NEXT_PUBLIC_SERVER_URL is
+#    optional — the app falls back to Vercel's own domain automatically.
+#    DATABASE_URL=postgres://user:password@host-pooler.neon.tech:5432/kazanoba?sslmode=require
 #    PAYLOAD_SECRET=<64 hex chars — make one with: node -e "console.log(require('crypto').randomBytes(32).toString('hex'))">
-#    NEXT_PUBLIC_SERVER_URL=https://your-domain.com
 
 # 2. Load it into this shell (Windows PowerShell: every new terminal needs this)
-$env:DATABASE_URI = "postgres://user:password@host:5432/kazanoba"
+$env:DATABASE_URL = "postgres://user:password@host-pooler.neon.tech:5432/kazanoba?sslmode=require"
 $env:PAYLOAD_SECRET = "<your-64-hex-secret>"
-$env:NEXT_PUBLIC_SERVER_URL = "https://your-domain.com"
 
 # 3. Create the Postgres migration set (first time only — writes src/migrations-pg/)
 npm run migrate:create
@@ -96,5 +97,5 @@ REST (localized): `/api/menu-sections?locale=el` · `?locale=en` · `/api/menu-i
 
 - Menu mirrors the official Menurio catalog (14 sections, 512 dishes/drinks, €). Inactive rows are dimmed, never hidden, so no section is empty.
 - Frontend reads **live from the CMS** (`/api/menu-sections|categories|menu-items?locale=el|en`, merged per language) and falls back to the bundled `src/data/menu.ts` snapshot when the CMS is empty/unreachable — the footer shows a green ● live / yellow ● snapshot dot.
-- CMS uses `DATABASE_URI=file:./dev.db` locally. Production (Postgres etc.) is yours later.
+- CMS uses `DATABASE_URL=file:./dev.db` locally (SQLite) and the pooled Neon URL in production (Postgres).
 - Source: https://app.menurio.com/kazanoba-tapas-bar-pr-gr
