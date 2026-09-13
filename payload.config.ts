@@ -20,6 +20,7 @@ const dirname = path.dirname(filename);
 const databaseUri = process.env.DATABASE_URI || 'file:./dev.db';
 const isPostgres = databaseUri.startsWith('postgres');
 
+
 export default buildConfig({
   serverURL: process.env.NEXT_PUBLIC_SERVER_URL || 'http://localhost:3000',
   secret: process.env.PAYLOAD_SECRET || 'kazanoba-dev-secret-change-me-please-32chars',
