@@ -2,6 +2,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { buildConfig } from 'payload';
 import { sqliteAdapter } from '@payloadcms/db-sqlite';
+import { postgresAdapter } from '@payloadcms/db-postgres';
 import { lexicalEditor } from '@payloadcms/richtext-lexical';
 
 import { Users } from './src/collections/Users';
@@ -13,15 +14,27 @@ import { MenuItems } from './src/collections/MenuItems';
 const filename = fileURLToPath(import.meta.url);
 const dirname = path.dirname(filename);
 
+// Same codebase, two databases:
+//  - local dev  -> SQLite file  (DATABASE_URI=file:./dev.db)
+//  - production -> Postgres     (DATABASE_URI=postgres://...)
+const databaseUri = process.env.DATABASE_URI || 'file:./dev.db';
+const isPostgres = databaseUri.startsWith('postgres');
+
 export default buildConfig({
   serverURL: process.env.NEXT_PUBLIC_SERVER_URL || 'http://localhost:3000',
   secret: process.env.PAYLOAD_SECRET || 'kazanoba-dev-secret-change-me-please-32chars',
   editor: lexicalEditor(),
-  db: sqliteAdapter({
-    client: {
-      url: process.env.DATABASE_URI || 'file:./dev.db'
-    }
-  }),
+  db: isPostgres
+    ? postgresAdapter({
+        pool: { connectionString: databaseUri },
+        // Postgres needs its own migration set (SQL dialect differs from SQLite).
+        migrationDir: path.resolve(dirname, 'src', 'migrations-pg'),
+      })
+    : sqliteAdapter({
+        client: { url: databaseUri },
+        // Drizzle migration files for local/prod-sqlite deploys (see package.json scripts).
+        migrationDir: path.resolve(dirname, 'src', 'migrations'),
+      }),
   // Bilingual venue: Greek default, English secondary — mirrors Menurio el/en.
   localization: {
     defaultLocale: 'el',
