@@ -17,9 +17,8 @@ const dirname = path.dirname(filename);
 // Same codebase, two databases:
 //  - local dev  -> SQLite file  (DATABASE_URI=file:./dev.db)
 //  - production -> Postgres     (DATABASE_URI=postgres://...)
-const databaseUri = process.env.DATABASE_URI || 'file:./dev.db';
+const databaseUri = process.env.DATABASE_URL || 'file:./dev.db';
 const isPostgres = databaseUri.startsWith('postgres');
-
 
 export default buildConfig({
   serverURL: process.env.NEXT_PUBLIC_SERVER_URL || 'http://localhost:3000',
