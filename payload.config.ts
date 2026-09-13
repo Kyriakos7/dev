@@ -31,6 +31,9 @@ function resolveServerURL(): string {
 export default buildConfig({
   secret: process.env.PAYLOAD_SECRET || 'dev-secret-change-me-please-1234567890',
   serverURL: resolveServerURL(),
+  admin: {
+    importMap: { baseDir: path.resolve(dirname, 'src') },
+  },
   editor: lexicalEditor(),
   db: isPostgres
     ? postgresAdapter({
